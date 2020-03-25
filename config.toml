@@ -90,7 +90,7 @@ enableEmoji = true
           # Gravatar 邮箱，用于优先在主页显示的头像
           gravatarEmail = ""
           # 主页显示头像的 URL
-          avatarURL = "/images/avatar.png"
+          avatarURL = "/images/avatar.jpg"
           # 主页显示的网站副标题
           subtitle = "LOVE wat u do. Do it GREAT."
           # 是否为副标题显示打字机动画
@@ -177,13 +177,13 @@ enableEmoji = true
   [params.publisher]
     name = "MaxJmac"
     [params.publisher.logo]
-      url = "logo.png"
+      url = "logo.jpg"
       width = 127
       height = 40
   # Website Log Info just for SEO
   # 网站 Logo 信息，仅用于 SEO
   [params.logo]
-    url = "logo.png"
+    url = "logo.jpg"
     width = 127
     height = 40
   # Website Image Info just for SEO
