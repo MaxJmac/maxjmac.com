@@ -109,7 +109,7 @@ enableEmoji = true
         GitHub = "MaxJmac"
         Email = "maxjmac@icloud.com"
         # Weibo = "xxxx"
-        Zhihu = "MaxJmac"
+        Zhihu = "maxjmac"
         # Bilibili = "xxxx"
       # 文章页面的分享信息设置
       [languages.zh-cn.params.share]
