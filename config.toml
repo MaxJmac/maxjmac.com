@@ -33,7 +33,7 @@ enableEmoji = true
     # 默认每页列表显示的文章数目
     paginate = 12
     # [UA-XXXXXXXX-X] 谷歌分析代号
-    googleAnalytics = ""
+    googleAnalytics = "UA-159334107-1"
     # 版权描述，仅仅用于 SEO
     copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
     # 日期格式
@@ -106,8 +106,8 @@ enableEmoji = true
           defaultHiddenFromHomePage = false
       # 主页的社交信息设置
       [languages.zh-cn.params.social]
-        GitHub = "xxxx"
-        Email = "xxxx@example.com"
+        GitHub = "MaxJmac"
+        Email = "maxjmac@icloud.com"
         # Weibo = "xxxx"
         # Zhihu = "xxxx"
         # Bilibili = "xxxx"
@@ -121,7 +121,7 @@ enableEmoji = true
         # Disqus 评论系统设置 (https://disqus.com/)
         [languages.zh-cn.params.comment.disqus]
           # Disqus 的 shortname，用来在文章中启用 Disqus 评论系统
-          shortname = ""
+          shortname = "maxjmac"
 
 [params]
   # LoveIt theme version
