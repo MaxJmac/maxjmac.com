@@ -9,6 +9,7 @@ license: ""
 
 tags: ["生活感悟"]
 categories: ["life-apperception"]
+slug: "life-apperception"
 hiddenFromHomePage: false
 
 featuredImage: "/images/inspiration-of-2020-begining/passive-income-of-web.jpg"

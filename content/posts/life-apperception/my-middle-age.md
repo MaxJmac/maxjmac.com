@@ -9,6 +9,7 @@ license: ""
 
 tags: ["生活感悟"]
 categories: ["life-apperception"]
+slug: "life-apperception"
 hiddenFromHomePage: false
 
 featuredImage: "/images/my-middle-age/dream-life.jpg"

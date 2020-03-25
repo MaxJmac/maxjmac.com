@@ -9,6 +9,7 @@ license: ""
 
 tags: ["Affiliate-Marketing","Media-Buy"]
 categories: ["affiliate-marketing"]
+slug: "affiliate-marketing"
 hiddenFromHomePage: false
 
 featuredImage: "/images/host-and-cdn/host-and-cdn-head.jpg"

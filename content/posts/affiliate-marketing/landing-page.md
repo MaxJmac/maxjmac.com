@@ -9,6 +9,7 @@ license: ""
 
 tags: ["Affiliate-Marketing","Media-Buy"]
 categories: ["affiliate-marketing"]
+slug: "affiliate-marketing"
 hiddenFromHomePage: false
 
 featuredImage: "/images/landing-page/landing-page-head.jpg"

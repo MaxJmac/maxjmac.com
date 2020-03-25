@@ -9,6 +9,7 @@ license: ""
 
 tags: ["Affiliate-Marketing","Media-Buy"]
 categories: ["affiliate-marketing"]
+slug: "affiliate-marketing"
 hiddenFromHomePage: false
 
 featuredImage: "/images/bot-check/bot-check-head.jpg"
