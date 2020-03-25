@@ -12,7 +12,7 @@ categories: ["affiliate-marketing"]
 slug: "affiliate-marketing"
 hiddenFromHomePage: false
 
-featuredImage: "/images/bot-check/bot-check-head.jpg"
+featuredImage: "/images/bot-check/bot-check-head.webp"
 featuredImagePreview: ""
 
 toc: true
