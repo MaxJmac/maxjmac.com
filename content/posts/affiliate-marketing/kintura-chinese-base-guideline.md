@@ -1,10 +1,10 @@
 ---
-title: "Kintura中文新手使用指南"
+title: "谁说没有免费的追踪器？！Kintura中文新手使用指南"
 date: 2020-06-27T22:40:00+08:00
 draft: false
 author: "MaxJmac"
 authorLink: "https://maxjmac.com"
-description: "Media Buy工具Tracker追踪器Kintura中文新手使用指南"
+description: "Media Buy工具免费Tracker追踪器Kintura中文新手使用指南"
 license: ""
 
 tags: ["Affiliate-Marketing","Media-Buy","Tools"]
