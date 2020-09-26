@@ -1,5 +1,5 @@
 ---
-title: "Affiliate Marketing之Media Buy美金收款方案"
+title: "Affiliate Marketing之Media Buy联盟美金收款方案"
 date: 2020-09-27T00:55:00+08:00
 draft: false
 author: "MaxJmac"
