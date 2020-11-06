@@ -7,27 +7,24 @@ math: true
 lightgallery: true
 ---
 
-#### Media Buy相关
-##### 联盟推荐
-###### Adult Dating Smartlink
-[Adverten](https://adverten.com/r/rrcramoszz)
-[iMonetizeIt](https://partner.imonetizeit.com/registration?hash=1fb66f234b24e17e0434a06aeb8212ed)
+## Media Buy相关
+### 联盟推荐
+[Adverten](https://adverten.com/r/rrcramoszz) 不错的Adult Dating Smartlink联盟
 
-###### 适合新手的联盟（无需审批）
-[Traffic Company](http://www.trafficcompany.com/signup?p=9319)
+[iMonetizeIt](https://partner.imonetizeit.com/registration?hash=1fb66f234b24e17e0434a06aeb8212ed)不错的Adult Dating Smartlink联盟, 也有CPA offer
 
-###### 著名的Afflow，现在又叫Monetizer
-[Monetizer](https://www.monetizer.com/?pid=14945)
+[Traffic Company](http://www.trafficcompany.com/signup?p=9319) 适合新手的联盟（无需审批）
 
-##### 流量源推荐
-###### 高质量Push和Pop流量
-[PropellerAds](https://partners.propellerads.com/#/app/auth/signUp?ref_id=e2e1476509ed)
-###### 还不错的Push流量
-[Pushground](https://app.pushground.com/register?invitation=D6iOUcRXM9QKE2WKE7lhYA==)
+[Monetizer](https://www.monetizer.com/?pid=14945) 著名的Afflow，现在又叫Monetizer
 
-##### 追踪器推荐
-###### 100万免费事件的高速AI云追踪
-[Kintura](https://kintura.com/partner/maxjmac)
+### 流量源推荐
+[PropellerAds](https://partners.propellerads.com/#/app/auth/signUp?ref_id=e2e1476509ed) 高质量Push和Pop流量
 
-##### 美金收款方式
-[Payoneer](http://share.payoneer.com/nav/6BWdz1Y56GcKD8TbFi1vyHfc-h76Z14AzOyXSUMooQKxFUQuAiANse-iMY3r8mBvTsMFwzxDdnYBFZFm1OnpyQ2)
+[Pushground](https://app.pushground.com/register?invitation=D6iOUcRXM9QKE2WKE7lhYA==) 还不错的Push流量
+
+### 追踪器推荐
+
+[Kintura](https://kintura.com/partner/maxjmac) 100万免费事件的高速AI云追踪
+
+### 收款方式
+[Payoneer](http://share.payoneer.com/nav/6BWdz1Y56GcKD8TbFi1vyHfc-h76Z14AzOyXSUMooQKxFUQuAiANse-iMY3r8mBvTsMFwzxDdnYBFZFm1OnpyQ2) 派安盈，详细介绍见收款方案文章
