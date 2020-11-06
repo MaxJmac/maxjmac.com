@@ -62,6 +62,13 @@ enableEmoji = true
         title = ""
         weight = 3
       [[languages.zh-cn.menu.main]]
+        identifier = "resources"
+        pre = ""
+        name = "资源推荐"
+        url = "/resources/"
+        title = ""
+        weight = 4
+      [[languages.zh-cn.menu.main]]
         identifier = "about"
         pre = ""
         name = "关于"
