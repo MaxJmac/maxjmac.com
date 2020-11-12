@@ -51,32 +51,32 @@ comment: true
 ### Backblaze B2
 首先创建一个Bucket，Bucket Unique Name填个唯一的就行，记得要选择Public
 
-![](/images/create-bucket.png)
+![](/images/assets-cdn/create-bucket.png)
 
 创建成功后先随便上传一张图片，然后进入Bucket，点开刚刚上传的图片，可以看到以下内容
 
-![](/images/friendly-url.png)
+![](/images/assets-cdn/friendly-url.png)
 
 把这个Friendly URL下的`f002.backblazeb2.com`部分记下来，后面会用到。
 
 ### CloudFlare
 用准备好的域名新建一个站点，进入站点后选择上方的`DNS`菜单，把域名的NAME SERVERS(名称服务器)切换成CloudFlare的，你的DNS就托管给CloudFlare了。
 
-![](/images/nameservers1.png)
+![](/images/assets-cdn/nameservers1.png)
 
-![](/images/nameservers2.png)
+![](/images/assets-cdn/nameservers2.png)
 
 然后添加一个CNAME记录解析到上面记录的Friendly URL下，可以使用二级域名，我这里使用的是assets，如图
 
-![](/images/dns.png)
+![](/images/assets-cdn/dns.png)
 
 上方切换到`SSL/TLS`菜单，确保加密模式设置为完全，如图
 
-![](/images/ssl.png)
+![](/images/assets-cdn/ssl.png)
 
 上方切换到`页面规则`菜单，按顺序添加两个页面规则，注意按顺序（即优先级），如图
 
-![](/images/page-rule.png)
+![](/images/assets-cdn/page-rule.png)
 
 这里假设你的域名是`example.com`，你的Bucket Name是`mybucket`，规则1里面的URL就是`https://assets.example.com/file/mybucket/*`，规则2里面的URL就是`https://assets.example.com/file/*/*`，我这里转发重定向用到的URL是`https://secure.backblaze.com/404notfound`，这样别人试图通过你的域名访问其他仓库的时候，就会提示404。
 
@@ -89,25 +89,25 @@ comment: true
 
 首先到Backblaze B2的后台菜单App Keys下新建一个Application Key，如图
 
-![](/images/appkey1.png)
+![](/images/assets-cdn/appkey1.png)
 
 给这个key起个名，可以叫Cyberduck说明是给这个软件用的key，选择你创建的Bucket，类型保持默认的Read and Write。创建成功后会出现下图，只会出现一次，所以记得把applicationKey复制下来。
 
-![](/images/appkey2.png)
+![](/images/assets-cdn/appkey2.png)
 
 打开你下载的Cyberduck，新建一个连接，如图
 
-![](/images/cyberduck.png)
+![](/images/assets-cdn/cyberduck.png)
 
 选择Backblaze B2 Cloud Storage，然后填入上方的keyID和applicationKey后点击Connect即可连接上，可以看到你之前随便上传的那张图片。现在你可以方便的在这个应用上创建文件夹，批量上传文件了。
 
-![](/images/cyberduck2.png)
+![](/images/assets-cdn/cyberduck2.png)
 
 这时你这个文件的访问路径就由原来的`https://f002.backblazeb2.com/file/mybucket/create-bucket.png`(不带CDN加速)变成了`https://assets.example.com/file/mybucket/create-bucket.png`(带CloudFlare CDN加速)。
 
 ## 部署效果
 话不多说，上个[GTmetrix](https://gtmetrix.com/)测速效果图，双A稳稳的。
-![](/images/speedtest.png)
+![](/images/assets-cdn/speedtest.png)
 
 ## 总结
 Landing Page的访问速度很重要，可以说是转化的关键因素之一，必须重视。目前我使用了这个方案一个月左右，运行稳定，已将所有LP迁移至此方案。这个可作为fast.io收费后的免费解决方案。
