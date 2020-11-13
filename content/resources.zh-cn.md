@@ -28,3 +28,8 @@ lightgallery: true
 
 ### 收款方式
 [Payoneer](http://share.payoneer.com/nav/6BWdz1Y56GcKD8TbFi1vyHfc-h76Z14AzOyXSUMooQKxFUQuAiANse-iMY3r8mBvTsMFwzxDdnYBFZFm1OnpyQ2) 派安盈，详细介绍见收款方案文章
+
+### Spy工具
+[Anstrex](https://www.anstrex.com/?utm_campaign=affiliate&fp_ref=huixiang73) Push推荐这款，我的使用感受是比Adplexity好用而且还便宜
+
+[AdPeriscope](https://www.adperiscope.com?utm_campaign=affiliate&fp_ref=huixiang44) Adult Banner推荐这款，性价比更高
