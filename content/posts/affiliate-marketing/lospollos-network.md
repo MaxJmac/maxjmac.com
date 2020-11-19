@@ -24,7 +24,7 @@ share:
   enable: true
 comment: true
 ---
-今天给大家介绍一个联盟[Los Pollos](https://www.lospollos.com/)，一家专门做smarlink的联盟，PPL/PPS都有，涵盖了多个Vertical，其中包括Dating、Crypto、Gambling、Cams、Adult Games等等。
+今天给大家介绍一个联盟[Los Pollos](http://lospollos.com/?utm_source=maxjmac)，一家专门做smarlink的联盟，PPL/PPS都有，涵盖了多个Vertical，其中包括Dating、Crypto、Gambling、Cams、Adult Games等等。
 
 我选择他们是想跑他们的Dating Smartlink，这家联盟的Dating Smartlink在业内口碑不错，我在跟其他Affiliate的交流中得知的这个联盟，同时又在[广告中国](https://www.advertcn.com/?29736)看到这家联盟的宣传号，于是决定测试一下。
 
@@ -50,4 +50,4 @@ comment: true
 
 #### 总结
 
-这是一家界面清爽，起付金额低，付款周期短，有Opportunities功能，业内知名而且口碑不错的联盟。有兴趣的小伙伴可以注册一下，官网: [https://www.lospollos.com/](https://www.lospollos.com/)
+这是一家界面清爽，起付金额低，付款周期短，有Opportunities功能，业内知名而且口碑不错的联盟。有兴趣的小伙伴可以注册一下，官网: [http://lospollos.com/?utm_source=maxjmac](http://lospollos.com/?utm_source=maxjmac)
