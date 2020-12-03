@@ -22,6 +22,8 @@ lightgallery: true
 
 [Pushground](https://app.pushground.com/register?invitation=D6iOUcRXM9QKE2WKE7lhYA==) 还不错的Push流量
 
+[Traffic Junky](https://trafficjunky.com/sign-up/advertiser?source=referral&referralCode=82bba0e84f0b5e6f12cb) 大人流量，质量很好，但是价格也高
+
 ### 追踪器推荐
 
 [Kintura](https://kintura.com/partner/maxjmac) 100万免费事件的高速AI云追踪
