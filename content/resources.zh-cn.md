@@ -17,6 +17,8 @@ lightgallery: true
 
 [Monetizer](https://www.monetizer.com/?pid=14945) 著名的Afflow，现在又叫Monetizer
 
+[YepAds](https://panel.yepads.com/apply/?referred_by=14395) 有Nutra/Casino/Sweepstakes的Offer，有中国AM
+
 ### 流量源推荐
 [PropellerAds](https://partners.propellerads.com/#/app/auth/signUp?ref_id=e2e1476509ed) 高质量Push和Pop流量
 
