@@ -40,3 +40,6 @@ lightgallery: true
 
 ### 域名注册商
 [Namecheap](https://www.anrdoezrs.net/click-9268564-11426545) 免费的 Whois Guard. Media buy用最合适了
+
+### Affiliate论坛
+[affLift](https://afflift.com/?r=39423) 知名Affiliate论坛，价格也不算贵，适合新手学习
