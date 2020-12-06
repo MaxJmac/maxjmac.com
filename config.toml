@@ -75,13 +75,6 @@ enableEmoji = true
         url = "/about/"
         title = ""
         weight = 5
-      [[languages.zh-cn.menu.main]]
-        identifier = "github"
-        pre = "<i class='fab fa-github fa-fw'></i>"
-        name = ""
-        url = "https://github.com/MaxJmac"
-        title = "GitHub"
-        weight = 6
     [languages.zh-cn.params]
       # 网站描述
       description = "专注于构建被动收入系统，程序员一枚，同时是Affiliate Marketer，Media Buyer"
@@ -113,7 +106,6 @@ enableEmoji = true
           defaultHiddenFromHomePage = false
       # 主页的社交信息设置
       [languages.zh-cn.params.social]
-        GitHub = "MaxJmac"
         Email = "maxjmac@icloud.com"
         # Weibo = "xxxx"
         Zhihu = "maxjmac"
