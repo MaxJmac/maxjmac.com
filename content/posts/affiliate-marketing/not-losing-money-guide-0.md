@@ -12,7 +12,7 @@ categories: ["affiliate-marketing"]
 slug: "affiliate-marketing"
 hiddenFromHomePage: false
 
-featuredImage: "/images/not-losing-money-0/not-losing-money-0-head.jpg"
+featuredImage: "/images/not-losing-money-guide-0/not-losing-money-0-head.jpg"
 featuredImagePreview: ""
 
 toc: true
@@ -33,9 +33,9 @@ comment: true
 ### 1.申请追踪器Kintura
 其实任何追踪器都可以，但是Kintura有每月100万的免费事件，对比其他动辄每个月几十刀费用的追踪器来说，又省下一笔。本文也将以Kintura为例示范如何配置整个流程。由于现在Kintura的申请都是邀请制的，可以通过我这个链接[https://kintura.com/partner/maxjmac](https://kintura.com/partner/maxjmac)去申请，相当于我邀请你了。
 点击右上角的`INQUIRE`进入申请
-![kintura-1](/images/not-losing-money-0/kintura-1.png)
+![kintura-1](/images/not-losing-money-guide-0/kintura-1.png)
 需要注意的点是，尽量把自己说成有一定经验的Media buyer，即使你没有太多的经验。如下图选择即可。
-![kintura-2](/images/not-losing-money-0/kintura-2.png)
+![kintura-2](/images/not-losing-money-guide-0/kintura-2.png)
 重要的是最下面要填的内容，问你为什么对Kintura感兴趣。大概要回答的就是"听说你们的AI可以让ROI提升40%-60%，而且重定向速度是追踪器中最快的，所以想尝试一下" balabalabala，怎么说就看你自己了，为防止雷同，请自行翻译。一般申请需要48小时审核，如果一直没有收到邮件，那就可能被拒绝了，换个邮箱IP再来一次吧。
 Kintura使用教程也可以看我之前的一篇文章[《谁说没有免费的追踪器？！Kintura中文新手使用指南》](https://maxjmac.com/affiliate-marketing/kintura-chinese-base-guideline/)
 
