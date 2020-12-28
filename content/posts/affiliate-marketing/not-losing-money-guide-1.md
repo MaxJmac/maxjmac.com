@@ -1,6 +1,6 @@
 ---
 title: "Affiliate Marketing之Media Buy不亏钱指南(中篇)"
-date: 2020-12-21T17:30:00+08:00
+date: 2020-12-28T22:40:00+08:00
 draft: false
 author: "MaxJmac"
 authorLink: "https://maxjmac.com"
@@ -102,13 +102,16 @@ comment: true
 从上至下，`Name`填入Campaign的名称，`Campaign URL`即步骤6中最后提到的`Campaign URL`，`Preview Image`选择步骤2中保存好的Offer预览图，`Flow/Vertical`这里因为`#126899`这个offer是1click的，所以选择`Carrier Billing`，`Country`选择MX，`Bid`填入之前拟定的0.27，`Quality`强烈建议选择`Best Quality`，`Category`选择`Mainstream`，`Type`选择`Mobile`，`Connection`选择`Cellular`，`Carriers`选择我们Offer要求的`Telcel`，滚动到最下方保存即可。
 
 
+
 至此，完整的创建流程已经演示完毕，接下来等待审核即可。
+
 
 ## 小结
 
 限于篇幅，今天的内容暂时先到这里。下篇我会讲到如何选择Offer，如何根据流量源的数据挑选geo，还有一些进阶的方法和Tips。
 
 欢迎联系我的个人微信`MaxJmac`交流
+
 
 ## 广告时间
 我建立了一个知识星球，在这里分享一些我找到的公开资源和我的一些经验，同时希望能建立一个友好的新手交流的社群，大家共同成长，成为未来大牛。
