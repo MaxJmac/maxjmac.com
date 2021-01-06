@@ -19,6 +19,8 @@ lightgallery: true
 
 [YepAds](https://panel.yepads.com/apply/?referred_by=14395) 有Nutra/Casino/Sweepstakes的Offer，有中国AM
 
+[Clickdealer](https://www.clickdealer.com/Signup?s1=97513) 不必过多解释，大联盟，有中国AM
+
 ### 流量源推荐
 [PropellerAds](https://partners.propellerads.com/#/app/auth/signUp?ref_id=e2e1476509ed) 高质量Push和Pop流量
 
