@@ -79,7 +79,7 @@ enableEmoji = true
       # 网站描述
       description = "专注于构建被动收入系统，程序员一枚，同时是Affiliate Marketer，Media Buyer"
       # 网站关键词
-      keywords = ["Theme", "Hugo"]
+      keywords = ["Media buy", "Affiliate Marketing"]
       # 网站默认主题 ("light", "dark", "auto")
       defaultTheme = "auto"
       # 主页信息设置
