@@ -40,6 +40,9 @@ lightgallery: true
 
 [AdPeriscope](https://www.adperiscope.com?utm_campaign=affiliate&fp_ref=maxjmac) Adult Banner推荐这款，性价比更高
 
+### 主机商
+[DigitalOcean](https://m.do.co/c/194ba0ca4bf2) 前两个月可以用100$券==免费，我自己也在用，挺稳定的
+
 ### 域名注册商
 [Namecheap](https://www.anrdoezrs.net/click-9268564-11426545) 免费的 Whois Guard. Media buy用最合适了
 
