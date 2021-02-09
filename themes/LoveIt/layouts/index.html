@@ -1,38 +1,25 @@
 {{- define "content" -}}
-    {{- $params := .Scratch.Get "params" -}}
-    {{- $profile := .Site.Params.home.profile -}}
-    {{- $posts := .Site.Params.home.posts -}}
-
-    <div class="page home"{{ if ne $posts.enable false }} posts{{ end }}>
+    <div class="page home">
         {{- /* Profile */ -}}
-        {{- if ne $profile.enable false -}}
+        {{- if .Site.Params.home.profile.enable -}}
             {{- partial "home/profile.html" . -}}
         {{- end -}}
 
-        {{- /* Content */ -}}
-        {{- if .Content -}}
-            <div class="single">
-                <div class="content" id="content">
-                    {{- dict "Content" .Content "Ruby" $params.ruby "Fraction" $params.fraction "Fontawesome" $params.fontawesome | partial "function/content.html" | safeHTML -}}
-                </div>
-            </div>
-        {{- end -}}
-
         {{- /* Posts */ -}}
-        {{- if ne $posts.enable false | and .Site.RegularPages -}}
+        {{- if ne .Site.Params.home.posts.enable false -}}
             {{- /* Paginate */ -}}
-            {{- $pages := where .Site.RegularPages "Type" "posts" -}}
-            {{- if .Site.Params.page.hiddenFromHomePage -}}
-                {{- $pages = where $pages "Params.hiddenfromhomepage" false -}}
+            {{- $paginator := where .Site.RegularPages "Type" "posts" -}}
+            {{- if ne .Site.Params.home.posts.mode.defaultHiddenFromHomePage false -}}
+                {{- $paginator = where $paginator "Params.hiddenfromhomepage" "!=" true -}}
             {{- else -}}
-                {{- $pages = where $pages "Params.hiddenfromhomepage" "!=" true -}}
+                {{- $paginator = where $paginator "Params.hiddenfromhomepage" false -}}
             {{- end -}}
-            {{- with $posts.paginate | default .Site.Params.paginate -}}
-                {{- $pages = $.Paginate $pages . -}}
+            {{- with .Site.Params.home.posts.paginate -}}
+                {{- $paginator = $.Paginate $paginator . -}}
             {{- else -}}
-                {{- $pages = .Paginate $pages -}}
+                {{- $paginator = $.Paginate $paginator -}}
             {{- end -}}
-            {{- range $pages.Pages -}}
+            {{- range $paginator.Pages -}}
                 {{- .Render "summary" -}}
             {{- end -}}
             {{- partial "paginator.html" . -}}

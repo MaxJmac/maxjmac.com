@@ -1,18 +1,9 @@
 .page {
   position: relative;
-  max-width: 800px;
-  width: 60%;
+  width: 100%;
+  max-width: 980px;
   margin: 0 auto;
-
-  [header-desktop] & {
-    padding-top: $header-height;
-  }
-
-  [header-desktop=normal] & {
-    padding-top: 0;
-  }
-
-  @include blur;
+  padding-top: $page-padding-top-desktop;
 }
 
 @import "_single";

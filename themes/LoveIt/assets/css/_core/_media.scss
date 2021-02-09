@@ -1,38 +1,50 @@
+@media only screen and (max-width: 1800px) {
+  .page {
+    max-width: 780px;
+
+    #toc-auto {
+      margin-left: 800px;
+    }
+  }
+}
+
 @media only screen and (max-width: 1440px) {
   .page {
-    width: 56%;
+    max-width: 680px;
+
+    #toc-auto {
+      margin-left: 700px;
+    }
   }
 }
 
 @media only screen and (max-width: 1200px) {
   .page {
-    width: 52%;
-  }
+    max-width: 560px;
 
-  #header-desktop .header-wrapper {
-    padding-right: 1rem;
-  }
-
-  .search-dropdown.desktop {
-    right: 1rem;
+    #toc-auto {
+      margin-left: 580px;
+    }
   }
 }
 
 @media only screen and (max-width: 960px) {
-  #toc-auto {
-    display: none;
-  }
-
-  #toc-static {
-    display: block;
+  #header-desktop {
+    .header-wrapper {
+      padding: 0 1rem;
+    }
   }
 
   .page {
-    width: 80%;
-  }
+    max-width: 80%;
 
-  #header-desktop .header-wrapper {
-    padding-left: 1rem;
+    #toc-auto {
+      display: none;
+    }
+
+    #toc-static {
+      display: block;
+    }
   }
 }
 
@@ -45,20 +57,9 @@
     display: block;
   }
 
-  body.blur {
-    overflow: hidden;
-  }
-
   .page {
-    width: 100%;
-
-    [header-mobile] & {
-      padding-top: $header-height;
-    }
-
-    [header-mobile=normal] & {
-      padding-top: 0;
-    }
+    max-width: 100%;
+    padding-top: $page-padding-top-mobile;
 
     .categories-card {
       .card-item {

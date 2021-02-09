@@ -1,77 +1,23 @@
-.toc {
-  .toc-title {
-    font-size: $toc-title-font-size;
-    font-weight: bold;
-    text-transform: uppercase;
-  }
-
-  .toc-content {
-    font-size: $toc-content-font-size;
-
-    ul {
-      text-indent: -0.85rem;
-      padding-left: .8rem;
-      list-style: none;
-
-      a:first-child::before {
-        content: "|";
-        font-weight: bolder;
-        margin-right: .5rem;
-        color: $single-link-color;
-
-        [theme=dark] & {
-          color: $single-link-color-dark;
-        }
-      }
-
-      ul {
-        padding-left: 1.5rem;
-      }
-    }
-  }
-
-  ruby {
-    background: $code-background-color;
-
-    rt {
-      color: $global-font-secondary-color;
-    }
-
-    [theme=dark] & {
-      background: $code-background-color-dark;
-
-      rt {
-        color: $global-font-secondary-color-dark;
-      }
-    }
-  }
-}
-
 #toc-auto {
   display: block;
   position: absolute;
-  width: $MAX_LENGTH;
-  max-width: 0;
+  width: 100%;
+  max-width: 1000px;
+  margin-left: 1000px;
   padding: 0 .8rem;
-  border-left: 4px solid $global-border-color;
-  @include overflow-wrap(break-word);
+  border-left: 1px solid $global-border-color;
+  overflow-wrap: break-word;
   box-sizing: border-box;
-  top: 10rem;
-  left: 0;
-  visibility: hidden;
+  top: if($header-normal-mode-desktop, 5rem, 10rem);
 
-  [header-desktop=normal] & {
-    top: 5rem;
-  }
-
-  @include blur;
-
-  [theme=dark] & {
-    border-left-color: $global-border-color-dark;
+  .dark-theme & {
+    border-left: 1px solid $global-border-color-dark;
   }
 
   .toc-title {
+    font-weight: 400;
     margin: .8rem 0;
+    text-transform: uppercase;
   }
 
   .toc-content {
@@ -79,12 +25,28 @@
       display: block;
     }
 
-    > nav > ul {
+    >nav>ul {
       margin: .625rem 0;
     }
 
     ul {
+      text-indent: -0.85rem;
+      padding-left: .625rem;
+      list-style: none;
+
+      a::before {
+        content: "|";
+        font-weight: bolder;
+        margin-right: .5rem;
+        color: $single-link-color;
+
+        .dark-theme & {
+          color: $single-link-color-dark;
+        }
+      }
+
       ul {
+        padding-left: 1.25rem;
         display: none;
       }
 
@@ -97,14 +59,14 @@
       font-weight: bold;
       color: $single-link-color;
 
-      [theme=dark] & {
+      .dark-theme & {
         color: $single-link-color-dark;
       }
 
       &::before {
         color: $single-link-hover-color;
 
-        [theme=dark] & {
+        .dark-theme & {
           color: $single-link-hover-color-dark;
         }
       }
@@ -114,21 +76,43 @@
 
 #toc-static {
   display: none;
-  margin: .8rem 0;
+  padding-top: .8rem;
 
-  &[kept=true] {
-    display: block;
+  details {
+    summary {
+      list-style: none;
+      background: darken($code-background-color, 3%);
+
+      .dark-theme & {
+        background: darken($code-background-color-dark, 3%);
+      }
+
+      .toc-title {
+        display: block;
+        display: flex;
+        justify-content: space-between;
+        font-weight: bold;
+        line-height: 2em;
+        padding: 0 .625rem;
+
+        i.details {
+          line-height: 2em;
+        }
+
+        &:hover {
+          cursor: pointer;
+        }
+      }
+
+      &::-webkit-details-marker {
+        display: none;
+      }
+    }
   }
 
-  .toc-title {
-    display: flex;
-    justify-content: space-between;
-    line-height: 2em;
-    padding: 0 .75rem;
-    background: darken($code-background-color, 6%);
-
-    [theme=dark] & {
-      background: darken($code-background-color-dark, 6%);
+  details[open] {
+    i.details {
+      transform: rotate(180deg);
     }
   }
 
@@ -137,20 +121,44 @@
 
     > nav > ul {
       margin: 0;
-      padding: .4rem 1rem .4rem 1.8rem;
+      padding: .4rem .8rem;
     }
 
-    [theme=dark] & {
+    ul {
+      list-style: none;
+
+      ul {
+        padding-left: 1.25rem;
+      }
+    }
+
+    .dark-theme & {
       background-color: $code-background-color-dark;
     }
   }
+}
 
-  &.open {
-    .toc-title {
-      background: darken($code-background-color, 3%);
+.toc {
+  .toc-title {
+    font-size: $toc-title-font-size;
+  }
 
-      [theme=dark] & {
-        background: darken($code-background-color-dark, 3%);
+  .toc-content {
+    font-size: $toc-content-font-size;
+  }
+
+  ruby {
+    background: $code-background-color;
+
+    rt {
+      color: $global-font-secondary-color;
+    }
+
+    .dark-theme & {
+      background: $code-background-color-dark;
+
+      rt {
+        color: $global-font-secondary-color-dark;
       }
     }
   }

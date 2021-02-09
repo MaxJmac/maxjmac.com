@@ -1,3 +1,7 @@
+.archive-item {
+  margin-left: 2rem;
+}
+
 .categories-card {
   margin: 0 auto;
   margin-top: 3rem;
@@ -6,6 +10,7 @@
   justify-content: space-between;
   flex-direction: row;
   flex-wrap: wrap;
+  padding: 0 2.5rem;
   line-height: 1.6rem;
 
   .card-item {
@@ -27,8 +32,6 @@
         font-size: 1.2rem;
         font-weight: bold;
         display: inline-block;
-        margin-top: 1rem;
-        margin-bottom: .75rem;
       }
 
       span {
@@ -39,40 +42,38 @@
   }
 }
 
-.archive-item {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  box-sizing: border-box;
-  margin: .25rem 0 .25rem 1.5rem;
-}
-
 .archive-item-link {
-  min-width: 10%;
+  display: inline-block;
+  text-decoration: none;
   overflow: hidden;
-  white-space: nowrap;
   text-overflow: ellipsis;
+  white-space: nowrap;
+  max-width: 95%;
 
   &:hover {
     color: $global-link-hover-color;
     background-color: transparent;
   }
 
-  [theme=dark] & {
+  .dark-theme & {
     color: $global-link-color-dark;
+    text-decoration: none;
+    transition: color 0.2s ease, border-color 0.2s ease, background 0.2s ease, opacity 0.2s ease;
 
     &:hover {
       color: $global-link-hover-color-dark;
+      text-decoration: none;
+      transition: color 0.2s ease, border-color 0.2s ease, background 0.2s ease, opacity 0.2s ease;
     }
   }
 }
 
 .archive-item-date {
-  width: 4em;
+  float: right;
   text-align: right;
   color: $global-font-secondary-color;
 
-  [theme=dark] & {
+  .dark-theme & {
     color: $global-font-secondary-color-dark;
   }
 }
