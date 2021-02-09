@@ -1,0 +1,300 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="robots" content="noodp" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
+        <title>Affiliate Marketing之Media Buy入门实战(五)主机和CDN配置 - MaxJmac的开源生活</title><meta name="Description" content="Affiliate Marketing之Media Buy入门实战(五)主机和CDN配置"><meta property="og:title" content="Affiliate Marketing之Media Buy入门实战(五)主机和CDN配置" />
+<meta property="og:description" content="Affiliate Marketing之Media Buy入门实战(五)主机和CDN配置" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://maxjmac.com/affiliate-marketing/host-and-cdn/" />
+<meta property="article:published_time" content="2020-03-14T00:00:00+08:00" />
+<meta property="article:modified_time" content="2020-03-25T16:35:58+08:00" /><meta property="og:site_name" content="MaxJmac的开源生活" />
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Affiliate Marketing之Media Buy入门实战(五)主机和CDN配置"/>
+<meta name="twitter:description" content="Affiliate Marketing之Media Buy入门实战(五)主机和CDN配置"/>
+<meta name="application-name" content="MaxJmac的开源生活">
+<meta name="apple-mobile-web-app-title" content="MaxJmac的开源生活"><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="manifest" href="/site.webmanifest"><link rel="canonical" href="https://maxjmac.com/affiliate-marketing/host-and-cdn/" /><link rel="prev" href="https://maxjmac.com/affiliate-marketing/landing-page/" /><link rel="next" href="https://maxjmac.com/affiliate-marketing/bot-check/" /><link rel="stylesheet" href="/lib/normalize/normalize.min.css"><link rel="stylesheet" href="/css/style.min.css"><link rel="stylesheet" href="/lib/fontawesome-free/all.min.css"><link rel="stylesheet" href="/lib/animate/animate.min.css"><script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "BlogPosting",
+        "headline": "Affiliate Marketing之Media Buy入门实战(五)主机和CDN配置",
+        "inLanguage": "zh-CN",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https:\/\/maxjmac.com\/affiliate-marketing\/host-and-cdn\/"
+        },"genre": "posts","keywords": "Affiliate-Marketing, Media-Buy","wordcount":  3901 ,
+        "url": "https:\/\/maxjmac.com\/affiliate-marketing\/host-and-cdn\/","datePublished": "2020-03-14T00:00:00+08:00","dateModified": "2020-03-25T16:35:58+08:00","license": "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.","publisher": {
+            "@type": "Organization",
+            "name": "MaxJmac"},"author": {
+                "@type": "Person",
+                "name": "MaxJmac"
+            },"description": "Affiliate Marketing之Media Buy入门实战(五)主机和CDN配置"
+    }
+    </script></head>
+    <body header-desktop="fixed" header-mobile="auto"><script type="text/javascript">(window.localStorage && localStorage.getItem('theme') ? localStorage.getItem('theme') === 'dark' : ('auto' === 'auto' ? window.matchMedia('(prefers-color-scheme: dark)').matches : 'auto' === 'dark')) && document.body.setAttribute('theme', 'dark');</script>
+
+        <div id="mask"></div><div class="wrapper"><header class="desktop" id="header-desktop">
+    <div class="header-wrapper">
+        <div class="header-title">
+            <a href="/" title="MaxJmac的开源生活">MaxJmac的开源生活</a>
+        </div>
+        <div class="menu">
+            <div class="menu-inner"><a class="menu-item" href="/posts/"> 所有文章 </a><a class="menu-item" href="/tags/"> 标签 </a><a class="menu-item" href="/categories/"> 分类 </a><a class="menu-item" href="/resources/"> 资源推荐 </a><a class="menu-item" href="/about/"> 关于 </a><span class="menu-item delimiter"></span><a href="javascript:void(0);" class="menu-item theme-switch" title="切换主题">
+                    <i class="fas fa-adjust fa-fw"></i>
+                </a>
+            </div>
+        </div>
+    </div>
+</header><header class="mobile" id="header-mobile">
+    <div class="header-container">
+        <div class="header-wrapper">
+            <div class="header-title">
+                <a href="/" title="MaxJmac的开源生活">MaxJmac的开源生活</a>
+            </div>
+            <div class="menu-toggle" id="menu-toggle-mobile">
+                <span></span><span></span><span></span>
+            </div>
+        </div>
+        <div class="menu" id="menu-mobile"><a class="menu-item" href="/posts/" title="">所有文章</a><a class="menu-item" href="/tags/" title="">标签</a><a class="menu-item" href="/categories/" title="">分类</a><a class="menu-item" href="/resources/" title="">资源推荐</a><a class="menu-item" href="/about/" title="">关于</a><a href="javascript:void(0);" class="menu-item theme-switch" title="切换主题">
+                <i class="fas fa-adjust fa-fw"></i>
+            </a></div>
+    </div>
+</header>
+<div class="search-dropdown desktop">
+    <div id="search-dropdown-desktop"></div>
+</div>
+<div class="search-dropdown mobile">
+    <div id="search-dropdown-mobile"></div>
+</div>
+<main class="main">
+                <div class="container"><div class="toc" id="toc-auto">
+            <h2 class="toc-title">目录</h2>
+            <div class="toc-content" id="toc-content-auto"></div>
+        </div><article class="page single"><h1 class="single-title animated flipInX">Affiliate Marketing之Media Buy入门实战(五)主机和CDN配置</h1><div class="post-meta">
+            <div class="post-meta-line"><span class="post-author"><a href="https://maxjmac.com" title="Author" target="_blank" rel="noopener noreffer author" class="author"><i class="fas fa-user-circle fa-fw"></i>MaxJmac</a></span>&nbsp;<span class="post-category">收录于 <a href="/categories/affiliate-marketing/"><i class="far fa-folder fa-fw"></i>affiliate-marketing</a></span></div>
+            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw"></i>&nbsp;<time datetime="2020-03-14">2020-03-14</time>&nbsp;<i class="fas fa-pencil-alt fa-fw"></i>&nbsp;约 3901 字&nbsp;
+                <i class="far fa-clock fa-fw"></i>&nbsp;预计阅读 8 分钟&nbsp;</div>
+        </div><div class="featured-image"><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="/images/host-and-cdn/host-and-cdn-head.jpg"
+        data-srcset="/images/host-and-cdn/host-and-cdn-head.jpg, /images/host-and-cdn/host-and-cdn-head.jpg 1.5x, /images/host-and-cdn/host-and-cdn-head.jpg 2x"
+        data-sizes="auto"
+        alt="/images/host-and-cdn/host-and-cdn-head.jpg"
+        title="Affiliate Marketing之Media Buy入门实战(五)主机和CDN配置" /></div><div class="details toc" id="toc-static"  kept="">
+                <div class="details-summary toc-title">
+                    <span>目录</span>
+                    <span><i class="details-icon fas fa-angle-right"></i></span>
+                </div>
+                <div class="details-content toc-content" id="toc-content-static"><nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li>
+          <ul>
+            <li><a href="#1注册域名">1.注册域名</a></li>
+            <li><a href="#2安装主机">2.安装主机</a></li>
+            <li><a href="#3创建cdn">3.创建CDN</a></li>
+            <li><a href="#4配置dns">4.配置DNS</a></li>
+            <li><a href="#landing-page配置好之后追踪器怎么设置">Landing Page配置好之后追踪器怎么设置</a></li>
+            <li><a href="#结语">结语</a></li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+  </ul>
+</nav></div>
+            </div><div class="content" id="content"><p>做好Landing Page之后，为了让全球的用户都可以访问到我们的Landing Page，我们必须把它放到服务器主机上，配置域名、DNS(Domain Name System)域名系统、CDN(Content Delivery Network)内容分发网络，以让用户能够更快的加载页面，因为没有用户愿意停留在那里等待你的广告慢慢加载。</p>
+<p>在这里我们会用<a href="https://www.anrdoezrs.net/click-9268564-11426545" target="_blank" rel="noopener noreffer">Namecheap</a>作为域名注册商，Amazon S3作为Web主机，Amazon Route 53作为DNS服务提供商，Amazon Cloudfront作为CDN。你也可以用任何你喜欢服务商作为替换，但是其中哪一步不会了，你就需要自行解决了。</p>
+<h4 id="1注册域名">1.注册域名</h4>
+<p>为什么选择<a href="https://www.anrdoezrs.net/click-9268564-11426545" target="_blank" rel="noopener noreffer">Namecheap</a>？因为他们有永久免费的WhoisGuard，这点很重要，因为很多Landing Page在某种程度上有欺骗行为，所以最好不要让你的名字和这个Landing Page产生关联。</p>
+<p>首先在<a href="https://www.anrdoezrs.net/click-9268564-11426545" target="_blank" rel="noopener noreffer">Namecheap</a>上注册好账号，然后在上方菜单的Domains下的Domain Name Search页面中搜索你想要注册的域名。在这之前，你最好确定一个你要专注跑的垂直领域，比如我跑Sweepstakes(抽奖)，我注册的域名是<code>free-lucky-prize.com</code>，后面我会以这个域名作为例子进行配置上的讲解。名字没有必要太纠结，只要和你跑的Offer或其所在的垂直领域有一些关联性即可，不要花太多的时间去注册一个完美的域名，这不是最重要的东西。需要注意的是尽量注册.com域名，人们倾向于相信.com域名。</p>
+<p>选好之后Add to cart，然后在右下角Checkout到下一个页面。Domain Registration这里的Auto-Renew关闭掉，因为不知道你会用这个域名多久，到期自行续费就行，没必要Auto-Renew。下方的WhoisGuard保持Enable状态就行，Auto-Renew也不用开。PremiumDNS没必要买，因为我们后面会用Amazon Route 53。最后Confirm Order就付费可以了。</p>
+<h4 id="2安装主机">2.安装主机</h4>
+<p>先到<a href="https://aws.amazon.com/" target="_blank" rel="noopener noreffer">AWS</a>注册一个账号，注册完登录AWS的控制台，在左上角的服务菜单下找到存储下的S3。点击<code>+ Create bucket</code> 按钮，<code>Bucket name</code>这里填入你的域名，我这里是<code>free-lucky-prize.com</code>，<code>Region</code>保留默认值，当然你也可以选到离你目标Offer近一点的地区，但其实这个不重要，因为我们将使用CDN来全球加速。然后直接点击左下角的<code>Create</code>即可创建。</p>
+<p>创建完成后点击你刚刚创建的Bucket名称进入设置页面，切换到<code>Permissions</code>这个Tab下，在<code>Block public access</code>这个子页面下点击右侧的<code>Edit</code>按钮，去掉勾选后点击<code>Save</code>，在弹出框中输入<code>confirm</code>后再点击<code>Confirm</code>按钮。如下图所示</p>
+<p><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="/images/host-and-cdn/bucket-setting-block-public-access.jpg"
+        data-srcset="/images/host-and-cdn/bucket-setting-block-public-access.jpg, /images/host-and-cdn/bucket-setting-block-public-access.jpg 1.5x, /images/host-and-cdn/bucket-setting-block-public-access.jpg 2x"
+        data-sizes="auto"
+        alt="/images/host-and-cdn/bucket-setting-block-public-access.jpg"
+        title="/images/host-and-cdn/bucket-setting-block-public-access.jpg" /></p>
+<p>继续在<code>Permissions</code>这个Tab下，切换到<code>Bucket policy</code>这个子页面。然后将下面这段代码复制到编辑框中</p>
+<pre><code>{
+  &quot;Version&quot;: &quot;2012-10-17&quot;,
+  &quot;Id&quot;: &quot;Policy1577696696528&quot;,
+  &quot;Statement&quot;: [
+      {
+          &quot;Sid&quot;: &quot;Stmt1577696677121&quot;,
+          &quot;Effect&quot;: &quot;Allow&quot;,
+          &quot;Principal&quot;: &quot;*&quot;,
+          &quot;Action&quot;: &quot;s3:GetObject&quot;,
+          &quot;Resource&quot;: &quot;arn:aws:s3:::free-lucky-prize.com/*&quot;
+      }
+  ]
+}
+</code></pre>
+<p>注意这里把<code>free-lucky-prize.com</code>替换成你自己的域名也就是<code>Bucket name</code>（这一步很重要），其它部分全部不改（我当时就自作聪明去改Version日期&hellip;），点击<code>Save</code>按钮保存。出现下图的样子就是设置成功了。</p>
+<p><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="/images/host-and-cdn/bucket-setting-bucket-policy.jpg"
+        data-srcset="/images/host-and-cdn/bucket-setting-bucket-policy.jpg, /images/host-and-cdn/bucket-setting-bucket-policy.jpg 1.5x, /images/host-and-cdn/bucket-setting-bucket-policy.jpg 2x"
+        data-sizes="auto"
+        alt="/images/host-and-cdn/bucket-setting-bucket-policy.jpg"
+        title="/images/host-and-cdn/bucket-setting-bucket-policy.jpg" /></p>
+<p>切换到<code>Overview</code>这个Tab下，点击<code>+ Create folder</code>，这里输入什么其实不是非常重要，但是你新建的每一层folder都会成为你Landing Page链接的一部分，建议是方便你自己分辨，又不会让用户看到这个链接觉得欺诈就行。举个例子，假设我跑的是印度的抽奖Offer，用的是转盘类型的Landing Page，我就会这样新建folder，先创建一个名为India的folder，创建完点击这个名称进去再创建一个名为lucky-wheel的folder，进入lucky-wheel这个folder之后点击<code>Upload</code>，上传我的Landing Page，最终效果如下图</p>
+<p><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="/images/host-and-cdn/bucket-setting-overview.jpg"
+        data-srcset="/images/host-and-cdn/bucket-setting-overview.jpg, /images/host-and-cdn/bucket-setting-overview.jpg 1.5x, /images/host-and-cdn/bucket-setting-overview.jpg 2x"
+        data-sizes="auto"
+        alt="/images/host-and-cdn/bucket-setting-overview.jpg"
+        title="/images/host-and-cdn/bucket-setting-overview.jpg" /></p>
+<p>那么我的Landing Page的最终链接为<code>http://free-lucky-prize.com/India/lucky-wheel/index.html</code>。当然，等我CDN配置完就是<code>https</code>而不是<code>http</code>了。最后，在浏览器输入你自己配置好的地址测试一下，可以看到的话说明主机配置这一步就没有问题了。如果你是跑Mobile类型的话，记得用手机尝试访问一下，看看效果。</p>
+<h4 id="3创建cdn">3.创建CDN</h4>
+<p>点击左上角的<code>Services</code>，在输入框中输入<code>CloudFront</code>并点击进入CDN的配置页面，点击<code>Create Distribution</code>进入下一个页面，有两个<code>Get Started</code>按钮，点击Web这一栏的<code>Get Started</code>进入下一个页面。</p>
+<p>在第一行<code>Origin Domain Name</code>这里点击输入框选择你刚刚创建的Bucket。跳过中间部分，滚动到<code>Distribution Settings</code>这里在<code>Alternate Domain Names(CNAMEs)</code>输入框中输入你的域名，带www和不带www的两种版本，都不要加<code>http://</code>。然后在下方<code>Default Root Object</code>这个输入框中输入<code>index.html</code>，如图</p>
+<p><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="/images/host-and-cdn/cdn-setting-domain-names-1.jpg"
+        data-srcset="/images/host-and-cdn/cdn-setting-domain-names-1.jpg, /images/host-and-cdn/cdn-setting-domain-names-1.jpg 1.5x, /images/host-and-cdn/cdn-setting-domain-names-1.jpg 2x"
+        data-sizes="auto"
+        alt="/images/host-and-cdn/cdn-setting-domain-names-1.jpg"
+        title="/images/host-and-cdn/cdn-setting-domain-names-1.jpg" /></p>
+<p>然后点击<code>Create Distribution</code>你大概率会遇到这个错误，如下图</p>
+<p><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="/images/host-and-cdn/cdn-setting-error.jpg"
+        data-srcset="/images/host-and-cdn/cdn-setting-error.jpg, /images/host-and-cdn/cdn-setting-error.jpg 1.5x, /images/host-and-cdn/cdn-setting-error.jpg 2x"
+        data-sizes="auto"
+        alt="/images/host-and-cdn/cdn-setting-error.jpg"
+        title="/images/host-and-cdn/cdn-setting-error.jpg" /></p>
+<p>这是我遇到的《40天新手进阶实操教程2019中文版#完整版#》那本书里的一个坑，你回到上面<code>SSL Certificate </code>这里点击<code>Request or Import a Certificate with ACM</code>这个按钮到下一个页面，在Domain name那里输入你的域名带www和不带www的版本，如下图</p>
+<p><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="/images/host-and-cdn/cdn-settings-request-certificate.jpg"
+        data-srcset="/images/host-and-cdn/cdn-settings-request-certificate.jpg, /images/host-and-cdn/cdn-settings-request-certificate.jpg 1.5x, /images/host-and-cdn/cdn-settings-request-certificate.jpg 2x"
+        data-sizes="auto"
+        alt="/images/host-and-cdn/cdn-settings-request-certificate.jpg"
+        title="/images/host-and-cdn/cdn-settings-request-certificate.jpg" /></p>
+<p>点击Next，选择<code>Email validation</code>也就是邮件验证，继续Next，Add Tags这里跳过，点击Review，然后点击<code>Confirm and request</code>，最后点击<code>Continue</code>，你域名注册的那个邮箱就会收到Amazon发给你的邮件。同时你也跳往下一个页面显示如图</p>
+<p><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="/images/host-and-cdn/cdn-settings-request-certificate-pending.jpg"
+        data-srcset="/images/host-and-cdn/cdn-settings-request-certificate-pending.jpg, /images/host-and-cdn/cdn-settings-request-certificate-pending.jpg 1.5x, /images/host-and-cdn/cdn-settings-request-certificate-pending.jpg 2x"
+        data-sizes="auto"
+        alt="/images/host-and-cdn/cdn-settings-request-certificate-pending.jpg"
+        title="/images/host-and-cdn/cdn-settings-request-certificate-pending.jpg" /></p>
+<p>去你的邮箱里面点击Amazon发给你的邮件，To approve this request后面有个链接，点击后在下一个页面点击<code>I Approve</code>按钮即可完成验证。刷新页面，显示变成下面这种状态</p>
+<p><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="/images/host-and-cdn/cdn-settings-request-certificate-issue.jpg"
+        data-srcset="/images/host-and-cdn/cdn-settings-request-certificate-issue.jpg, /images/host-and-cdn/cdn-settings-request-certificate-issue.jpg 1.5x, /images/host-and-cdn/cdn-settings-request-certificate-issue.jpg 2x"
+        data-sizes="auto"
+        alt="/images/host-and-cdn/cdn-settings-request-certificate-issue.jpg"
+        title="/images/host-and-cdn/cdn-settings-request-certificate-issue.jpg" /></p>
+<p>回到刚才那个页面，刷新一下重新填写内容，在<code>SSL Certificate</code>这里选择<code>Custom SSL Certificate</code>并在输入框中选择你刚才请求到的Certificate，如下图</p>
+<p><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="/images/host-and-cdn/cdn-settings-request-certificate-custom.jpg"
+        data-srcset="/images/host-and-cdn/cdn-settings-request-certificate-custom.jpg, /images/host-and-cdn/cdn-settings-request-certificate-custom.jpg 1.5x, /images/host-and-cdn/cdn-settings-request-certificate-custom.jpg 2x"
+        data-sizes="auto"
+        alt="/images/host-and-cdn/cdn-settings-request-certificate-custom.jpg"
+        title="/images/host-and-cdn/cdn-settings-request-certificate-custom.jpg" /></p>
+<p>这时再点击<code>Create Distribution</code>就没有问题了。</p>
+<p><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="/images/host-and-cdn/cdn-settings-copy-domain-name.jpg"
+        data-srcset="/images/host-and-cdn/cdn-settings-copy-domain-name.jpg, /images/host-and-cdn/cdn-settings-copy-domain-name.jpg 1.5x, /images/host-and-cdn/cdn-settings-copy-domain-name.jpg 2x"
+        data-sizes="auto"
+        alt="/images/host-and-cdn/cdn-settings-copy-domain-name.jpg"
+        title="/images/host-and-cdn/cdn-settings-copy-domain-name.jpg" /></p>
+<p>复制<code>Domain Name</code>下面的内容到一个地方存着，我们后面的配置会用到它，Status这里In Progress先不用管，大约15分钟后会变成Deployed的，我们不用在这里等。我们进入下一步配置DNS。</p>
+<h4 id="4配置dns">4.配置DNS</h4>
+<p>同样的，在左上角<code>Services</code>输入框中输入<code>Route 53</code>并点击进入DNS配置页面，点击<code>Create Hosted Zone</code>，<code>Domain Name</code>这里输入你的域名，我这里是<code>free-lucky-prize.com</code>，Comment不填，点击<code>Create</code>进入到下一个页面。点击上方的<code>Create Record Set</code>，在弹出的窗口中Name这里输入<code>www</code>，Type保持A - IPv4 address不变，<code>Alias</code>这里选择Yes，然后Alias Target这里点击后会出现一个下拉，如果你的CloudFront已经部署完成了，选择你的CloudFront配置那个域名，如果还没部署完没有显示的话，就粘贴你刚刚复制下来的Domain Name，<code>***.cloudfront.net</code>那个进去，然后点击<code>Create</code>。</p>
+<p>再次点击上方的<code>Create Record Set</code>，重复上面的步骤，Name这里输入<code>www</code>，区别是Type这里改成AAAA - IPv6 address。</p>
+<p>然后再添加无修饰版本，即Name这里不输入内容，Type分别配置IPv4和IPv6。配置完如图</p>
+<p><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="/images/host-and-cdn/dns-settings.jpg"
+        data-srcset="/images/host-and-cdn/dns-settings.jpg, /images/host-and-cdn/dns-settings.jpg 1.5x, /images/host-and-cdn/dns-settings.jpg 2x"
+        data-sizes="auto"
+        alt="/images/host-and-cdn/dns-settings.jpg"
+        title="/images/host-and-cdn/dns-settings.jpg" /></p>
+<p>最后，我们需要将域名指到Route 53域名服务器。注意看上图红框部分。</p>
+<p>我们登录到Namecheap，在Domain List下找到你的域名，点击右侧<code>MANAGE</code>按钮，在<code>NAMESERVERS</code>这里改成<code>Custom DNS</code>，并在下方粘贴上图的四个地址，不要最后面的<code>.</code>，记得点绿色的小勾保存。</p>
+<p><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="/images/host-and-cdn/namecheap-dns-setting.jpg"
+        data-srcset="/images/host-and-cdn/namecheap-dns-setting.jpg, /images/host-and-cdn/namecheap-dns-setting.jpg 1.5x, /images/host-and-cdn/namecheap-dns-setting.jpg 2x"
+        data-sizes="auto"
+        alt="/images/host-and-cdn/namecheap-dns-setting.jpg"
+        title="/images/host-and-cdn/namecheap-dns-setting.jpg" /></p>
+<p>最后，你可能需要等待DNS配置生效，官方说是最多48小时，实际上只要15-30分钟左右。</p>
+<p>如何查看DNS是否已经生效？你可以到<a href="https://dnschecker.org/" target="_blank" rel="noopener noreffer">https://dnschecker.org/</a>输入你的域名，带www和不带的版本都试一下，如果你看到绿色的小勾，说明生效了，如果是红色的小叉，那就再等等。如果过了几小时还是没有的话，你就要检查一下上面的步骤有没有出错了。</p>
+<h4 id="landing-page配置好之后追踪器怎么设置">Landing Page配置好之后追踪器怎么设置</h4>
+<p>登录之后在左侧菜单找到Ads Config下的Landing Page，点击Add，在弹出窗口的Name这里填上Landing Page的名称方便你自己分辨多个Landing Page，下方Url这里填入Landing Page存放的地址，点击Save即可。继续到左侧的Campaign List菜单，新建Campaign或编辑现有Campaign，在Rotator部分的左侧Landings选择相应的Landing Page即可。要Split test多个Landing Page的话就添加相应的Landing Page到Rotator并设置好权重，这个在追踪器的文档里面有详细的说明，自行查阅。文档点页面最上方的疑问号那个按钮即可进入。</p>
+<h4 id="结语">结语</h4>
+<p>如果一切顺利，那么恭喜你，你翻过了一座大山，毕竟这对非程序员来说并不容易。如果你遇到了些什么错误，不要着急，照着上面的步骤仔细对照应该没有问题。当然，你也可以联系我，我会尽力帮助你。我的微信号是<code>MaxJmac</code>(注意大小写)，祝你好运！</p>
+</div><div class="post-footer" id="post-footer">
+    <div class="post-info">
+        <div class="post-info-line">
+            <div class="post-info-mod">
+                <span>更新于 2020-03-25&nbsp;<a class="git-hash" href="https://github.com/dillonzq/LoveIt/commit/7f95e67092e905f1458efc8b56d5588d55482a43" target="_blank" title="commit by MaxJmac(maxjmac@icloud.com) 7f95e67092e905f1458efc8b56d5588d55482a43: 修改文章超链以及显示样式">
+                                    <i class="fas fa-hashtag fa-fw"></i>7f95e67</a></span>
+            </div>
+            <div class="post-info-license"></div>
+        </div>
+        <div class="post-info-line">
+            <div class="post-info-md"><span>
+                            <a class="link-to-markdown" href="/affiliate-marketing/host-and-cdn/index.md" target="_blank">阅读原始文档</a>
+                        </span></div>
+            <div class="post-info-share">
+                <span></span>
+            </div>
+        </div>
+    </div>
+
+    <div class="post-info-more">
+        <section class="post-tags"><i class="fas fa-tags fa-fw"></i>&nbsp;<a href="/tags/affiliate-marketing/">Affiliate-Marketing</a>,&nbsp;<a href="/tags/media-buy/">Media-Buy</a></section>
+        <section>
+            <span><a href="javascript:void(0);" onclick="window.history.back();">返回</a></span>&nbsp;|&nbsp;<span><a href="/">主页</a></span>
+        </section>
+    </div>
+
+    <div class="post-nav"><a href="/affiliate-marketing/landing-page/" class="prev" rel="prev" title="Affiliate Marketing之Media Buy入门实战(四)Landing Page"><i class="fas fa-angle-left fa-fw"></i>Affiliate Marketing之Media Buy入门实战(四)Landing Page</a>
+            <a href="/affiliate-marketing/bot-check/" class="next" rel="next" title="Affiliate Marketing之Media Buy入门实战(六)Bot检测">Affiliate Marketing之Media Buy入门实战(六)Bot检测<i class="fas fa-angle-right fa-fw"></i></a></div>
+</div>
+<div id="comments"><div id="disqus_thread" class="comment"></div><noscript>
+                Please enable JavaScript to view the comments powered by <a href="https://disqus.com/?ref_noscript">Disqus</a>.
+            </noscript></div></article></div>
+            </main><footer class="footer">
+        <div class="footer-container"><div class="footer-line">由 <a href="https://gohugo.io/" target="_blank" rel="noopener noreffer" title="Hugo 0.68.1">Hugo</a> 强力驱动 | 主题 - <a href="https://github.com/dillonzq/LoveIt" target="_blank" rel="noopener noreffer" title="LoveIt 0.2.10"><i class="far fa-kiss-wink-heart fa-fw"></i> LoveIt</a>
+                </div><div class="footer-line"><i class="far fa-copyright fa-fw"></i><span itemprop="copyrightYear">2019 - 2021</span><span class="author" itemprop="copyrightHolder">&nbsp;<a href="https://maxjmac.com" target="_blank">MaxJmac</a></span>&nbsp;|&nbsp;<span class="license"><a rel="license external nofollow noopener noreffer" href="https://maxjmac.com/privacy-policy" target="_blank">Privacy policy</a></span></div>
+        </div>
+    </footer></div>
+
+        <div id="fixed-buttons"><a href="#" id="back-to-top" class="fixed-button" title="回到顶部">
+                <i class="fas fa-arrow-up fa-fw"></i>
+            </a><a href="#" id="view-comments" class="fixed-button" title="查看评论">
+                <i class="fas fa-comment fa-fw"></i>
+            </a>
+        </div><link rel="stylesheet" href="/lib/lightgallery/lightgallery.min.css"><script type="text/javascript" src="https://maxjmac.disqus.com/embed.js" defer></script><script type="text/javascript" src="/lib/smooth-scroll/smooth-scroll.min.js"></script><script type="text/javascript" src="/lib/lazysizes/lazysizes.min.js"></script><script type="text/javascript" src="/lib/lightgallery/lightgallery.min.js"></script><script type="text/javascript" src="/lib/lightgallery/lg-thumbnail.min.js"></script><script type="text/javascript" src="/lib/lightgallery/lg-zoom.min.js"></script><script type="text/javascript" src="/lib/clipboard/clipboard.min.js"></script><script type="text/javascript" src="/lib/sharer/sharer.min.js"></script><script type="text/javascript">window.config={"code":{"copyTitle":"复制到剪贴板","maxShownLines":10},"comment":{},"lightGallery":{"actualSize":false,"exThumbImage":"data-thumbnail","hideBarsDelay":2000,"selector":".lightgallery","speed":400,"thumbContHeight":80,"thumbWidth":80,"thumbnail":true}};</script><script type="text/javascript" src="/js/theme.min.js"></script></body>
+</html>

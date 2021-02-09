@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Tools - 标签 - MaxJmac的开源生活</title>
+        <link>https://maxjmac.com/tags/tools/</link>
+        <description>Tools - 标签 - MaxJmac的开源生活</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 27 Jun 2020 22:40:00 &#43;0800</lastBuildDate><atom:link href="https://maxjmac.com/tags/tools/" rel="self" type="application/rss+xml" /><item>
+    <title>谁说没有免费的追踪器？！Kintura中文新手使用指南</title>
+    <link>https://maxjmac.com/affiliate-marketing/kintura-chinese-base-guideline/</link>
+    <pubDate>Sat, 27 Jun 2020 22:40:00 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://maxjmac.com/affiliate-marketing/kintura-chinese-base-guideline/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/images/kintura-chinese-base-guideline/kintura-chinese-base-guideline-head.jpg" referrerpolicy="no-referrer">
+            </div>Kintrua简介 AI追踪器。具有Machine Learning(机器学习)功能，可以根据每个访客的geo、时间、设备类型、连接类型、浏览器]]></description>
+</item></channel>
+</rss>
