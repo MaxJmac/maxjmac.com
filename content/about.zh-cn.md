@@ -7,7 +7,7 @@ math: true
 lightgallery: true
 ---
 
-程序员，Affiliate Marketer，Media Buyer, Coder
+程序员，Affiliate Marketer，Media Buyer
 
 #### 联系方式
 微信: `MaxJmac`
