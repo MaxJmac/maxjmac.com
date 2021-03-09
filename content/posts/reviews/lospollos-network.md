@@ -4,12 +4,12 @@ date: 2020-11-19T16:50:00+08:00
 draft: false
 author: "MaxJmac"
 authorLink: "https://maxjmac.com"
-description: "Los Pollos联盟测评"
+description: "Los Pollos是一家专门做smarlink的联盟，PPL/PPS都有，涵盖了多个Vertical，其中包括Dating、Crypto、Gambling、Cams、Adult Games等等。"
 license: ""
 
-tags: ["Affiliate-Marketing","Media-Buy"]
-categories: ["affiliate-marketing"]
-slug: "affiliate-marketing"
+tags: ["Affiliate-Marketing","Media-Buy","Reviews"]
+categories: ["reviews"]
+slug: "reviews"
 hiddenFromHomePage: false
 
 featuredImage: "/images/lospollos-network/lospollos-network-header.png"

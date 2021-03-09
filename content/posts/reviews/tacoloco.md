@@ -78,6 +78,6 @@ Tacolo.co支持WebMoney/Paxum/Capitalist/Visa/Master，最低起充是100$，我
 
 ## 总结
 
-如果你是跑Dating的，那Tacolo.co绝对是你不容错过的Push流量源。他们和上次我介绍的[《Los Pollos联盟测评》](https://maxjmac.com/affiliate-marketing/lospollos-network/)里面的Los Pollos其实就是一家的，他们的订阅用户也是收集于他们的Dating smartlink，所以才有这么精准的用户。
+如果你是跑Dating的，那Tacolo.co绝对是你不容错过的Push流量源。他们和上次我介绍的[《Los Pollos联盟测评》](https://maxjmac.com/reviews/lospollos-network/)里面的Los Pollos其实就是一家的，他们的订阅用户也是收集于他们的Dating smartlink，所以才有这么精准的用户。
 
 注册链接: [https://tacolo.co/?utm_source=maxjmac](https://tacolo.co/?utm_source=maxjmac)
