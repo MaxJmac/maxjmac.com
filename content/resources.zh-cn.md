@@ -48,3 +48,7 @@ lightgallery: true
 
 ### Affiliate论坛
 [affLift](https://afflift.com/?r=39423) 知名Affiliate论坛，价格也不算贵，适合新手学习
+
+### PDF
+《A Complete Guide To Affiliate Marketing》英文版
+关注公众号【MaxJmac的开源生活】回复`Finch`获取
