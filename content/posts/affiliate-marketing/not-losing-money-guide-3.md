@@ -12,7 +12,7 @@ categories: ["affiliate-marketing"]
 slug: "affiliate-marketing"
 hiddenFromHomePage: false
 
-featuredImage: "/images/not-losing-money-guide-3/not-losing-money-3-head.jpeg"
+featuredImage: "/images/not-losing-money-guide-3/not-losing-money-3-head.jpg"
 featuredImagePreview: ""
 
 toc: true
