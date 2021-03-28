@@ -11,3 +11,9 @@ lightgallery: true
 
 #### 联系方式
 微信: `MaxJmac`
+
+#### 我的微信公众号
+![微信公众号](/images/gzh.png)
+
+#### 我的知识星球
+![知识星球](/images/optimize-campaign/zsxq.jpg)
