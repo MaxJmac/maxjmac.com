@@ -49,9 +49,11 @@ Media Buy是什么？
 
 这一切的开始是从注册联盟和流量源开始，我不会像书中那样叫你注册3个联盟，2个流量源，其实刚开始的时候，注册一个联盟和一个流量源就够了，等你足够熟练了，再去注册其他的联盟和其他的流量源，都是没什么难度的。在这之前Gmail的邮箱是挺有必要的，因为后面你去注册各种联盟和流量源的时候，大部分联盟需要审核，需要邮件沟通，一个国际化通用的邮箱非常有必要。注册邮箱和科学上网我就不在这里教了，要学的东西有很多，你要学会自己解决这些问题。
 
-##### 注册联盟Mobidea
+##### 注册联盟 ~~Mobidea~~ Traffic Company
+2021-04-15更新:
+鉴于Mobidea现在新手只能跑smartlink，现建议新手从Traffic Company起步，注册链接:[http://www.trafficcompany.com/signup?p=9319](http://www.trafficcompany.com/signup?p=9319)
 
-这是一个对新人友好的联盟，适合起步。网址是 [https://www.mobidea.com](https://www.mobidea.com) 。打开后点击右上角"JOIN\|LOGIN"，然后在新的页面点击"Not registered yet? Do it here."，跳转到个人信息填写的页面，First Name是你的名字，Last Name是你的姓氏。这里不要填错了也不要填假名字，因为后续你在联盟赚到钱要提现的时候，是要填汇款信息的。还有QQ或Skype，填完点Next。(Skype没有的话建议去注册一个，外国友人比较习惯使用这个聊天工具，而大多数联盟都是外国友人的，我们赚的也是美刀欧元)
+这是一个对~~新人友好~~的联盟，适合起步。网址是 [https://www.mobidea.com](https://www.mobidea.com) 。打开后点击右上角"JOIN\|LOGIN"，然后在新的页面点击"Not registered yet? Do it here."，跳转到个人信息填写的页面，First Name是你的名字，Last Name是你的姓氏。这里不要填错了也不要填假名字，因为后续你在联盟赚到钱要提现的时候，是要填汇款信息的。还有QQ或Skype，填完点Next。(Skype没有的话建议去注册一个，外国友人比较习惯使用这个聊天工具，而大多数联盟都是外国友人的，我们赚的也是美刀欧元)
 
 You are...选择"Media Buyer"
 
@@ -70,6 +72,8 @@ What networks are you currently working with?填写"None yet - I'm a newbie foll
 How did you find us?选择"Forum"
 
 剩下的就是填邮箱设置密码了，如果你有Gmail，直接点Sign up with Google就可以了。
+
+
 
 ##### 注册流量源 [PropellerAds](https://partners.propellerads.com/#/app/auth/signUp?ref_id=e2e1476509ed)
 
