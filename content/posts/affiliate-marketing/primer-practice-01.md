@@ -53,8 +53,10 @@ Media Buy是什么？
 2021-04-15更新:
 
 鉴于Mobidea现在新手只能跑smartlink，现建议新手从Traffic Company起步，注册更简单。
+
 注册链接:[http://www.trafficcompany.com/signup?p=9319](http://www.trafficcompany.com/signup?p=9319)
 
+原内容:
 
 这是一个对~~新人友好~~的联盟，适合起步。网址是 [https://www.mobidea.com](https://www.mobidea.com) 。打开后点击右上角"JOIN\|LOGIN"，然后在新的页面点击"Not registered yet? Do it here."，跳转到个人信息填写的页面，First Name是你的名字，Last Name是你的姓氏。这里不要填错了也不要填假名字，因为后续你在联盟赚到钱要提现的时候，是要填汇款信息的。还有QQ或Skype，填完点Next。(Skype没有的话建议去注册一个，外国友人比较习惯使用这个聊天工具，而大多数联盟都是外国友人的，我们赚的也是美刀欧元)
 
