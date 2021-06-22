@@ -26,7 +26,6 @@ comment: true
 ---
 
 本文源于[DOPAMINE DETOX | How To Take Back Control Over Your Life](https://www.youtube.com/watch?v=bV_NdUZEmnE)
-{{< youtube bV_NdUZEmnE >}}
 
 > 你是否感受到我们被一种无形的力量掌控了我们的生活？抖音一刷就是一天，打游戏打一天，刷微博刷一天，浑浑噩噩地过完一天后，罪恶的一天结束后，你有没有曾经后悔过，觉得不该如此？
 
