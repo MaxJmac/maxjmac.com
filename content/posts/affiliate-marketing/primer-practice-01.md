@@ -37,9 +37,7 @@ Media Buy是什么？
 
 #### 实战内容理论来源
 
-本系列文章的理论来源是全球最大的STM营销社区的Super大牛Vortex的力作《40天新手进阶Mobile Mastery实操教程》。我看的是中译版，来自知识星球付费社群《Affiliate营销圈》。文件我不会共享出来，因为版权属于《Affiliate营销圈》。这里推荐一下这个付费社群，里面的学习资源和内容非常丰富，价格也还好，365一年，每天一块钱换取的是一个新的圈子，接触的是一个新的领域，我的个人感受是超值！现在通过下面的二维码加入，还能获得限时优惠。
-
-![Affiliate Marketing Group](/images/primer-practice-01/affiliate-marketing-group.jpg)
+本系列文章的理论来源是著名的营销社区STM的Super大牛Vortex的力作《40天新手进阶Mobile Mastery实操教程》。
 
 #### 直接开始
 
@@ -100,3 +98,6 @@ Comments, e.g., goals of your advertising campaigns, your website, etc.?填一�
 
 至此，联盟和流量源的注册工作就完成了，接下来就是等待审核，一般很快就会通过了，注意查看邮件即可。外国友人习惯使用邮件沟通，我们也应当习惯地使用邮件。值得说明的是PropellerAds平台有中文选项，但是我不太建议使用中文界面，我们做的是英文的Affiliate Marketing，应当去习惯看英文，而且Affiliate Marketing也有很多的专业术语，翻译过来就变味了。保持英文界面，有这样的一个环境去学习英文，用多了，你才能在不同的联盟和流量平台游刃有余。
 
+## 广告时间
+我建立了一个知识星球，在这里分享一些我找到的公开资源和我的一些经验，同时希望能建立一个友好的新手交流的社群，大家共同成长，成为未来大牛。
+![](/images/contact.jpg)
