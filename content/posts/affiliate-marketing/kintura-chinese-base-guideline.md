@@ -24,6 +24,12 @@ share:
   enable: true
 comment: true
 ---
+
+#### 2021.10.14 Update:
+
+由于Kintura目前有很多的bug，且技术团队似乎不愿意继续维护，已不建议使用。其他tracker推荐可见
+[https://nav.maxjmac.com/](https://nav.maxjmac.com/)
+
 #### Kintrua简介
 
 AI追踪器。具有Machine Learning(机器学习)功能，可以根据每个访客的geo、时间、设备类型、连接类型、浏览器等因素，自动优化发送到Landing Page和Offer的流量。
