@@ -37,7 +37,7 @@ comment: true
 
 ![advertizer-insights](/images/not-losing-money-guide-2/advertizer-insights.png)
 
-`Volume`就是过去24小时的流量，`CVR`是平均的转化率，`Competition`是竞争度，进度条越满表示竞争越大，`Trail Cost`指的是，你每提交一个该geo的Campaign，需要支付的手续费(0.5-2.5刀)，一般越热门的geo，这个手续费就越高。
+`Volume`就是过去24小时的流量，`CVR`是平均的转化率，`Competition`是竞争度，进度条越满表示竞争越大，`Trial Cost`指的是，你每提交一个该geo的Campaign，需要支付的手续费(0.5-2.5刀)，一般越热门的geo，这个手续费就越高。
 
 我选择geo的标准一般是，过去24小时的`Volume`至少是100,000以上，或者不会低太多，然后Competition中等偏下比较好。现在Advertizer新的账号一开始无法创建一些热门geo比如ID/IN/US这些，所以剩下的选择其实不多。
 
