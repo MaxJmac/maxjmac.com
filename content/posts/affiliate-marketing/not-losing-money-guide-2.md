@@ -7,7 +7,7 @@ authorLink: "https://maxjmac.com"
 description: "Affiliate Marketing之Media Buy不亏钱指南(下篇)"
 license: ""
 
-tags: ["Affiliate-Marketing","Media-Buy"]
+tags: ["Affiliate-Marketing","Media-Buy","不亏钱指南"]
 categories: ["affiliate-marketing"]
 slug: "affiliate-marketing"
 hiddenFromHomePage: false
@@ -104,3 +104,9 @@ Tips暂时只想到这么多，后面有想到其他的再添加到我博客原�
 ## 广告时间
 我建立了一个知识星球，在这里分享一些我找到的公开资源和我的一些经验，同时希望能建立一个友好的新手交流的社群，大家共同成长，成为未来大牛。
 ![](/images/contact.jpg)
+
+## 关联阅读
+
+[不亏钱指南(上篇)](https://maxjmac.com/affiliate-marketing/not-losing-money-guide-0/)
+[不亏钱指南(中篇)](https://maxjmac.com/affiliate-marketing/not-losing-money-guide-1/)
+[不亏钱指南(补充)](https://maxjmac.com/affiliate-marketing/not-losing-money-guide-3/)

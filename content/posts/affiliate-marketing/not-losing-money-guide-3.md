@@ -7,7 +7,7 @@ authorLink: "https://maxjmac.com"
 description: "Kintura无法注册问题的替代方案，上中下篇的遗漏内容补充，常见问题解答以及成果展示。"
 license: ""
 
-tags: ["Affiliate-Marketing","Media-Buy"]
+tags: ["Affiliate-Marketing","Media-Buy","不亏钱指南"]
 categories: ["affiliate-marketing"]
 slug: "affiliate-marketing"
 hiddenFromHomePage: false
@@ -205,3 +205,9 @@ BeMob的好处是每月有10万次免费事件，超出才会收费。在对比�
 ## 广告时间
 我建立了一个知识星球，在这里分享一些我找到的公开资源和我的一些经验，同时希望能建立一个友好的新手交流的社群，大家共同成长，成为未来大牛。
 ![](/images/contact.jpg)
+
+## 关联阅读
+
+[不亏钱指南(上篇)](https://maxjmac.com/affiliate-marketing/not-losing-money-guide-0/)
+[不亏钱指南(中篇)](https://maxjmac.com/affiliate-marketing/not-losing-money-guide-1/)
+[不亏钱指南(下篇)](https://maxjmac.com/affiliate-marketing/not-losing-money-guide-2/)
