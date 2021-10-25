@@ -27,11 +27,11 @@ comment: true
 
 ## 优惠
 
-Binom注册:[https://binom.org/signup?from=MAXJMAC](https://binom.org/signup?from=MAXJMAC)使用Promo code: `MAXJMAC`，首月免费，次月六折。
+- Binom注册:[https://binom.org/signup?from=MAXJMAC](https://binom.org/signup?from=MAXJMAC)使用Promo code: `MAXJMAC`，首月免费，次月六折。
 
-DigitalOcean注册:[https://m.do.co/c/194ba0ca4bf2](https://m.do.co/c/194ba0ca4bf2)送100$，有效期60天，相当于免费使用2个月。
+- DigitalOcean注册:[https://m.do.co/c/194ba0ca4bf2](https://m.do.co/c/194ba0ca4bf2)送100$，有效期60天，相当于免费使用2个月。
 
-Namecheap注册:[https://www.anrdoezrs.net/click-9268564-11426545](https://www.anrdoezrs.net/click-9268564-11426545)购买时使用优惠码`COUPONFCNC`
+- Namecheap注册:[https://www.anrdoezrs.net/click-9268564-11426545](https://www.anrdoezrs.net/click-9268564-11426545)购买时使用优惠码`COUPONFCNC`
 
 ## Binom的特点和优势
 
