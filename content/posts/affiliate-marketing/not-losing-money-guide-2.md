@@ -71,15 +71,15 @@ comment: true
 
 按转化付费，那这个系统怎么运转？总不能一直让我们白得流量对吧。我们了解一下Advertizer的运转原理会有助于我们理解怎么去优化和使用这个流量源。
 
-当你的账户还是CPA Trail的时候，你每提交一个Campaign，就会扣除相应的Trail Cost，而且你的bid，Advertizer会抽成20%再给到Monetizer，也就是每个转化，他们抽20%的佣金，这就是他们的盈利模式。
+当你的账户还是CPA Trial的时候，你每提交一个Campaign，就会扣除相应的Trial Cost，而且你的bid，Advertizer会抽成20%再给到Monetizer，也就是每个转化，他们抽20%的佣金，这就是他们的盈利模式。
 
-除了Trail Cost以外，他们还有一个CPA Score，也就是质量分系统，如果你的这个CPA Score一直很低，就有可能被Advertizer限制每周可创建的Campaign数量（一开始是5个），最后甚至被取消创建CPA Campaign的功能。
+除了Trial Cost以外，他们还有一个CPA Score，也就是质量分系统，如果你的这个CPA Score一直很低，就有可能被Advertizer限制每周可创建的Campaign数量（一开始是5个），最后甚至被取消创建CPA Campaign的功能。
 
 #### 如何获得较高的CPA Score？
 
 首先一个好的Offer很重要，什么Offer适合Advertizer的流量呢？1click/2click/PIN/SMS这种转化流程简单的Offer是最合适的。
 
-然后就是要让利给跑Offer的人，也就是bid高一些，来获取更高的eCPM/EPC，这也是`CPA Score的根本`。一般bid你offer payout的80%-90%最佳。如果你的单Campaign Score高，可以相应调低，Score低则可以相应调高。否则你跑不了多久就遭遇`System Pause`，Trail Cost就白给了，得不偿失。
+然后就是要让利给跑Offer的人，也就是bid高一些，来获取更高的eCPM/EPC，这也是`CPA Score的根本`。一般bid你offer payout的80%-90%最佳。如果你的单Campaign Score高，可以相应调低，Score低则可以相应调高。否则你跑不了多久就遭遇`System Pause`，Trial Cost就白给了，得不偿失。
 
 最后就是优化了。你可以在跑了一些数据之后，在Tracker的Campaign的Drill Down里面看到partner这一数据。这个partner就是在跑你Offer的Affiliate，如果他送的流量一直不转化，或者转化低，或者bot比例很高。你可以在Advertizer的Campaign里面，在`Partner ID Blacklist`这一项里面把他blacklist掉，这里就是不让他继续送量，避免降低你的eCPM/EPC，从而造成CPA Score太低。尽量保持你的CPA Score在90%以上。
 
