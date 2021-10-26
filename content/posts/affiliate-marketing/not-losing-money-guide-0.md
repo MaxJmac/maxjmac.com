@@ -65,7 +65,7 @@ Kintura使用教程也可以看我之前的一篇文章[《谁说没有免费的
 Update(2021-10-26):
 推荐另一家适合不亏钱指南起步的联盟
 注册链接：[GoldenGoose](https://gg.agency/register?ref=VDsycZVduMR8u-vD)
-日付联盟，付款门槛也低(20刀起付)，可以联系AM推荐适合Advertizer跑的Offer。
+日付联盟，付款门槛也低(Paxum100刀起付)，可以联系AM推荐适合Advertizer跑的Offer。
 很多Offer在Advertizer上表现不错。
 不需要你有Media buy的经验，申请立即通过无需审核，大多数Offer也无需审核。
 付款方式丰富，可以Paxum/WebMoney/Payoneer。
