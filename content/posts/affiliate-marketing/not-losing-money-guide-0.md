@@ -50,7 +50,7 @@ comment: true
 
 Kintura使用教程也可以看我之前的一篇文章[《谁说没有免费的追踪器？！Kintura中文新手使用指南》](https://maxjmac.com/affiliate-marketing/kintura-chinese-base-guideline/)
 
-### 2.申请联盟TrafficCompany
+### 2.申请联盟
 
 注册链接：[TrafficCompany](http://www.trafficcompany.com/signup?p=9319)
 
@@ -61,6 +61,13 @@ Kintura使用教程也可以看我之前的一篇文章[《谁说没有免费的
 这家联盟一开始是月付，300刀起付，后面可以申请到周付。
 
 付款方式只有电汇/PayPal/Paxum这三种，个人建议使用Paxum，PayPal手续费太高，使用Paxum的好处是接下来介绍的流量源，也可以使用Paxum充值。
+
+Update(2021-10-26):
+新增一个推荐联盟
+注册链接：[GoldenGoose](https://gg.agency/register?ref=VDsycZVduMR8u-vD)
+这是一家日付联盟，付款门槛也很低，非常利于现金流的流转。
+同样不需要你有Media buy的经验，申请立即通过无需审核，大多数Offer也无需审核。
+付款方式丰富，可以Paxum/WebMoney/Payoneer。
 
 ### 3.申请流量源Advertizer
 
