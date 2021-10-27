@@ -27,7 +27,9 @@ comment: true
 
 Media buyer跑Push或者Native广告时，一定会用到Spy工具来获取创意(Creative)和着陆页(Landing Page)的灵感。视频介绍了其中一款Spy Tools----Anstrex的主要功能和基本使用方法。
 
+
 Anstrex优惠注册链接: [https://www.anstrex.com/?utm_campaign=affiliate&fp_ref=maxjmac](https://www.anstrex.com/?utm_campaign=affiliate&fp_ref=maxjmac)
+
 购买时使用优惠码: `maxjmac_20`
 可获得永久八折优惠。
 
