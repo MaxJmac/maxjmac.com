@@ -33,6 +33,6 @@ Anstrex优惠注册链接: [https://www.anstrex.com/?utm_campaign=affiliate&fp_r
 购买时使用优惠码: `maxjmac_20`
 可获得永久八折优惠。
 
-Affiliate Marketing团购Q群:645145325
+Affiliate Marketing团购Q群:`645145325`
 
 {{< youtube 3uJT1SkHTyE >}}
