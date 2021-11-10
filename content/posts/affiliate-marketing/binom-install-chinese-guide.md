@@ -31,7 +31,7 @@ comment: true
 
 - DigitalOcean注册:[https://m.do.co/c/194ba0ca4bf2](https://m.do.co/c/194ba0ca4bf2)送100$，有效期60天，相当于免费使用2个月。
 
-- Namecheap注册:[https://www.anrdoezrs.net/click-9268564-11426545](https://www.anrdoezrs.net/click-9268564-11426545)购买时使用优惠码`COUPONFCNC`
+- Namecheap注册:[https://namecheap.pxf.io/GjOgMk](https://namecheap.pxf.io/GjOgMk)购买时使用优惠码`COUPONFCNC`
 
 ## Binom的特点和优势
 
@@ -67,7 +67,7 @@ Binom是不限事件数的，也就是说不论你跑多大的量，只要你的
 
 这里建议使用Cloudflare来做DNS和CDN。
 
-[Namecheap](https://www.anrdoezrs.net/click-9268564-11426545)购买好域名后，登录到Cloudflare后台，点击添加站点，输入你的域名，计划选择最下方的免费0美元的即可。
+[Namecheap](https://namecheap.pxf.io/GjOgMk)购买好域名后，登录到Cloudflare后台，点击添加站点，输入你的域名，计划选择最下方的免费0美元的即可。
 
 ![cloudflare](/images/binom-install-chinese-guide/cloudflare.png)
 

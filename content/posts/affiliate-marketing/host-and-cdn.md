@@ -27,13 +27,13 @@ comment: true
 
 做好Landing Page之后，为了让全球的用户都可以访问到我们的Landing Page，我们必须把它放到服务器主机上，配置域名、DNS(Domain Name System)域名系统、CDN(Content Delivery Network)内容分发网络，以让用户能够更快的加载页面，因为没有用户愿意停留在那里等待你的广告慢慢加载。
 
-在这里我们会用[Namecheap](https://www.anrdoezrs.net/click-9268564-11426545)作为域名注册商，Amazon S3作为Web主机，Amazon Route 53作为DNS服务提供商，Amazon Cloudfront作为CDN。你也可以用任何你喜欢服务商作为替换，但是其中哪一步不会了，你就需要自行解决了。
+在这里我们会用[Namecheap](https://namecheap.pxf.io/GjOgMk)作为域名注册商，Amazon S3作为Web主机，Amazon Route 53作为DNS服务提供商，Amazon Cloudfront作为CDN。你也可以用任何你喜欢服务商作为替换，但是其中哪一步不会了，你就需要自行解决了。
 
 #### 1.注册域名
 
-为什么选择[Namecheap](https://www.anrdoezrs.net/click-9268564-11426545)？因为他们有永久免费的WhoisGuard，这点很重要，因为很多Landing Page在某种程度上有欺骗行为，所以最好不要让你的名字和这个Landing Page产生关联。
+为什么选择[Namecheap](https://namecheap.pxf.io/GjOgMk)？因为他们有永久免费的WhoisGuard，这点很重要，因为很多Landing Page在某种程度上有欺骗行为，所以最好不要让你的名字和这个Landing Page产生关联。
 
-首先在[Namecheap](https://www.anrdoezrs.net/click-9268564-11426545)上注册好账号，然后在上方菜单的Domains下的Domain Name Search页面中搜索你想要注册的域名。在这之前，你最好确定一个你要专注跑的垂直领域，比如我跑Sweepstakes(抽奖)，我注册的域名是`free-lucky-prize.com`，后面我会以这个域名作为例子进行配置上的讲解。名字没有必要太纠结，只要和你跑的Offer或其所在的垂直领域有一些关联性即可，不要花太多的时间去注册一个完美的域名，这不是最重要的东西。需要注意的是尽量注册.com域名，人们倾向于相信.com域名。
+首先在[Namecheap](https://namecheap.pxf.io/GjOgMk)上注册好账号，然后在上方菜单的Domains下的Domain Name Search页面中搜索你想要注册的域名。在这之前，你最好确定一个你要专注跑的垂直领域，比如我跑Sweepstakes(抽奖)，我注册的域名是`free-lucky-prize.com`，后面我会以这个域名作为例子进行配置上的讲解。名字没有必要太纠结，只要和你跑的Offer或其所在的垂直领域有一些关联性即可，不要花太多的时间去注册一个完美的域名，这不是最重要的东西。需要注意的是尽量注册.com域名，人们倾向于相信.com域名。
 
 选好之后Add to cart，然后在右下角Checkout到下一个页面。Domain Registration这里的Auto-Renew关闭掉，因为不知道你会用这个域名多久，到期自行续费就行，没必要Auto-Renew。下方的WhoisGuard保持Enable状态就行，Auto-Renew也不用开。PremiumDNS没必要买，因为我们后面会用Amazon Route 53。最后Confirm Order就付费可以了。
 
