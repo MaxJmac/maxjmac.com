@@ -41,6 +41,13 @@ enableEmoji = true
     # 菜单信息
     [languages.zh-cn.menu]
       [[languages.zh-cn.menu.main]]
+        identifier = "afftops"
+        pre = ""
+        name = "AffTops"
+        url = "https://afftops.com/"
+        title = ""
+        weight = 1
+      [[languages.zh-cn.menu.main]]
         identifier = "posts"
         pre = ""
         name = "所有文章"
