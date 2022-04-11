@@ -12,7 +12,7 @@ categories: ["affiliate-marketing"]
 slug: "affiliate-marketing"
 hiddenFromHomePage: false
 
-featuredImage: "/images/quick-winning-campaign/hero.png"
+featuredImage: "/images/quick-winning-campaign/hero.jpeg"
 featuredImagePreview: ""
 
 toc: true
