@@ -41,10 +41,10 @@ enableEmoji = true
     # 菜单信息
     [languages.zh-cn.menu]
       [[languages.zh-cn.menu.main]]
-        identifier = "afftops"
+        identifier = "nav"
         pre = ""
-        name = "AffTops"
-        url = "https://afftops.com/"
+        name = "Affiliate导航"
+        url = "https://nav.maxjmac.com/"
         title = ""
         weight = 1
       [[languages.zh-cn.menu.main]]
