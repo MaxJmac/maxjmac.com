@@ -19,10 +19,10 @@ toc: true
 autoCollapseToc: true
 math: false
 lightgallery: true
-linkToMarkdown: true
 share:
   enable: true
-comment: true
+comment: 
+  enable: true
 ---
 
 Media buyer跑Push或者Native广告时，一定会用到Spy工具来获取创意(Creative)和着陆页(Landing Page)的灵感。视频介绍了其中一款Spy Tools----Anstrex的主要功能和基本使用方法。
