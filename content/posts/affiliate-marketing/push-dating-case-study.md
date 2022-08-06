@@ -19,10 +19,10 @@ toc: true
 autoCollapseToc: true
 math: false
 lightgallery: true
-linkToMarkdown: true
 share:
   enable: true
-comment: true
+comment:
+  enable: true
 ---
 
 > 尽管很多人都说Push流量很难跑，无法盈利，但是我现在仍然在用Push跑Dating，并且是盈利的状态。这是一篇关于Push跑Dating的Case Study。相信可以给你带来启发。

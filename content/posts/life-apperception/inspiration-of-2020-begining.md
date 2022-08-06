@@ -19,10 +19,10 @@ toc: true
 autoCollapseToc: true
 math: false
 lightgallery: true
-linkToMarkdown: true
 share:
   enable: true
-comment: true
+comment:
+  enable: true
 ---
 
 > 2020的开局非常的不顺，各种天灾人祸频频发生，“新冠肺炎”、“澳洲大火”、“气候反常”、“科比坠机”等等。疫情还没有过去，但我想聊一聊经历此次遭遇我得到了一些什么启示。

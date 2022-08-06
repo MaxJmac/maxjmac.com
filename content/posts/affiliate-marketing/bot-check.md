@@ -19,10 +19,10 @@ toc: true
 autoCollapseToc: true
 math: false
 lightgallery: true
-linkToMarkdown: true
 share:
   enable: true
-comment: true
+comment:
+  enable: true
 ---
 
 > 有人的地方就有江湖，有江湖就有恩怨，人就是恩怨，你怎么退出？

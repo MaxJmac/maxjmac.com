@@ -19,10 +19,10 @@ toc: true
 autoCollapseToc: true
 math: false
 lightgallery: true
-linkToMarkdown: true
 share:
   enable: true
-comment: true
+comment:
+  enable: true
 ---
 
 > 本篇内容主要包括，如何选择Offer，如何根据流量源的数据挑选geo，还有一些进阶的方法和Tips。

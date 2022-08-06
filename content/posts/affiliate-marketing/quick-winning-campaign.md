@@ -19,10 +19,10 @@ toc: true
 autoCollapseToc: true
 math: false
 lightgallery: true
-linkToMarkdown: true
 share:
   enable: true
-comment: true
+comment:
+  enable: true
 ---
 
 > 这是一篇来自affLIFT的Case Study，affLIFT是一个知名的Affiliate付费论坛。内容的时间大概是2019年11月左右，但里面描述的思路仍然适用于现在，希望你读完能有所收获。

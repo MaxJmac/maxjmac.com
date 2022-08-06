@@ -19,10 +19,10 @@ toc: true
 autoCollapseToc: true
 math: false
 lightgallery: true
-linkToMarkdown: true
 share:
   enable: true
-comment: true
+comment:
+  enable: true
 ---
 今天给大家介绍一个联盟[Los Pollos](http://lospollos.com/?utm_source=maxjmac)，一家专门做smarlink的联盟，PPL/PPS都有，涵盖了多个Vertical，其中包括Dating、Crypto、Gambling、Cams、Adult Games等等。
 

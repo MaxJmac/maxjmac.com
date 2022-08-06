@@ -19,10 +19,10 @@ toc: true
 autoCollapseToc: true
 math: false
 lightgallery: true
-linkToMarkdown: true
 share:
   enable: true
-comment: true
+comment:
+  enable: true
 ---
 
 > 我也曾努力寻找最佳点位，这里包含最好的Offer，最好的Angles，最好的Landing page，最好的国家，最好的流量源和最好的Affiliate Network EPC。

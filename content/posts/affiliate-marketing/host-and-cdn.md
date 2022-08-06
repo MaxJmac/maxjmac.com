@@ -19,10 +19,10 @@ toc: true
 autoCollapseToc: true
 math: false
 lightgallery: true
-linkToMarkdown: true
 share:
   enable: true
-comment: true
+comment:
+  enable: true
 ---
 
 做好Landing Page之后，为了让全球的用户都可以访问到我们的Landing Page，我们必须把它放到服务器主机上，配置域名、DNS(Domain Name System)域名系统、CDN(Content Delivery Network)内容分发网络，以让用户能够更快的加载页面，因为没有用户愿意停留在那里等待你的广告慢慢加载。

@@ -19,10 +19,10 @@ toc: true
 autoCollapseToc: true
 math: false
 lightgallery: true
-linkToMarkdown: true
 share:
   enable: true
-comment: true
+comment:
+  enable: true
 ---
 在过去的5年里，我一直是一个全职的Online Marketer。2008年底，我辞去了最后一份朝九晚五的工作，并炒掉了所有的兼职客户，这样我就可以全身心地投入到网上赚钱中去--而且我从未回头。
 

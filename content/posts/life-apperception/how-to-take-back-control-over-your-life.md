@@ -19,10 +19,10 @@ toc: true
 autoCollapseToc: true
 math: false
 lightgallery: true
-linkToMarkdown: true
 share:
   enable: true
-comment: true
+comment:
+  enable: true
 ---
 
 本文源于[DOPAMINE DETOX | How To Take Back Control Over Your Life](https://www.youtube.com/watch?v=bV_NdUZEmnE)

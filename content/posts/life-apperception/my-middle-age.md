@@ -19,10 +19,10 @@ toc: true
 autoCollapseToc: true
 math: false
 lightgallery: true
-linkToMarkdown: true
 share:
   enable: true
-comment: true
+comment:
+  enable: true
 ---
 
 写代码也有些年头了，今天才开始写自己真正意义上的第一篇博客。就像《七年就是一辈子》里所说的那样，距离毕业也已经七年有多了，而自己迟迟没有开始写博客这件事，现在看来是错过了一辈子。“种一棵树最好的时间是十年前，其次是现在。”，那就从今天开始吧，用输出倒逼输入。
