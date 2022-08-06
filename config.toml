@@ -137,7 +137,7 @@ enableEmoji = true
           reactionsEnabled = "1"
           emitMetadata = "0"
           inputPosition = "bottom"
-          lazyLoading = true
+          lazyLoading = false
           lightTheme = "light_protanopia"
           darkTheme = "dark_dimmed"
 
