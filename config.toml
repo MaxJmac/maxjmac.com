@@ -122,7 +122,7 @@ enableEmoji = true
         enable = false
       # 评论系统设置
       [languages.zh-cn.params.comment]
-        enable = false
+        enable = true
         [languages.zh-cn.params.page.comment.giscus]
           enable = true
           repo = "MaxJmac/maxjmac.com"
@@ -136,7 +136,7 @@ enableEmoji = true
           reactionsEnabled = "1"
           emitMetadata = "0"
           inputPosition = "bottom"
-          lazyLoading = false
+          lazyLoading = true
           lightTheme = "light_protanopia"
           darkTheme = "dark_dimmed"
 
