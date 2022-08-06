@@ -123,7 +123,7 @@ enableEmoji = true
       # 评论系统设置
       [languages.zh-cn.params.comment]
         enable = true
-        [params.page.comment.giscus]
+        [languages.zh-cn.params.page.comment.giscus]
           enable = true
           repo = "MaxJmac/maxjmac.com"
           repoId = "MDEwOlJlcG9zaXRvcnkyNDk4OTU0OTU="
