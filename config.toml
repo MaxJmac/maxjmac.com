@@ -119,11 +119,10 @@ enableEmoji = true
         # Bilibili = "xxxx"
       # 文章页面的分享信息设置
       [languages.zh-cn.params.share]
-        enable = true
-        Weibo = true
+        enable = false
       # 评论系统设置
       [languages.zh-cn.params.comment]
-        enable = true
+        enable = false
         [languages.zh-cn.params.page.comment.giscus]
           enable = true
           repo = "MaxJmac/maxjmac.com"
