@@ -1,25 +1,13 @@
-{{- $type := .type | default "fa" -}}
-{{- $classList := split .class " " -}}
-{{- /* Fork Awesome */ -}}
-{{- if eq $type "fo" -}}
-    {{- $newClassList := slice -}}
-    {{- range $classList -}}
-        {{- if eq . "fa" -}}
-            {{- $newClassList = $newClassList | append "fo" -}}
-        {{- else -}}
-            {{- $newClassList = $newClassList | append (replaceRE `^fa\-(.+)$` `fo-$1` .) -}}
-        {{- end -}}
+{{- with .Class -}}
+    <i class="{{ . }}" aria-hidden="true"></i>
+{{- else -}}
+    {{- $src := .Src -}}
+    {{- with .Simpleicons -}}
+        {{- $prefix := $.Prefix | default "lib/simple-icons/icons" | strings.TrimSuffix "/" -}}
+        {{- $src = printf "%v/%v.svg" $prefix . -}}
     {{- end -}}
-    {{- $classList = $newClassList -}}
-    {{- with .scratch -}}
-        {{- .Set "forkawesome" true -}}
+    {{- if (urls.Parse $src).Host | not -}}
+        {{- $src = (resources.Get $src | minify).RelPermalink -}}
     {{- end -}}
-
-{{- /* default is Font Awesome */ -}}
-{{- /* Others */ -}}
-{{- else if ne $type "fa" -}}
-    {{- with .scratch -}}
-        {{- .Set "iconfont" true -}}
-    {{- end -}}
+    <i data-svg-src="{{ $src }}" aria-hidden="true"></i>
 {{- end -}}
-<i class="{{ delimit $classList ` ` }}"></i>
