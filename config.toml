@@ -124,11 +124,22 @@ enableEmoji = true
       # 评论系统设置
       [languages.zh-cn.params.comment]
         enable = true
-        # Disqus 评论系统设置 (https://disqus.com/)
-        [languages.zh-cn.params.comment.disqus]
-          # Disqus 的 shortname，用来在文章中启用 Disqus 评论系统
+        [params.page.comment.giscus]
           enable = true
-          shortname = "maxjmac"
+          repo = "MaxJmac/maxjmac.com"
+          repoId = "MDEwOlJlcG9zaXRvcnkyNDk4OTU0OTU="
+          category = "Announcements"
+          categoryId = "DIC_kwDODuUaR84CQpwc"
+          # automatically adapt the current theme i18n configuration when empty
+          # 为空时自动适配当前主题 i18n 配置
+          lang = "zh-CN"
+          mapping = "pathname"
+          reactionsEnabled = "1"
+          emitMetadata = "0"
+          inputPosition = "bottom"
+          lazyLoading = true
+          lightTheme = "light_protanopia"
+          darkTheme = "dark_dimmed"
 
 [params]
   # LoveIt theme version
