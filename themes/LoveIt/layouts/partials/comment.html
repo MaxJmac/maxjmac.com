@@ -51,7 +51,7 @@
             {{- with $valine.serverURLs -}}
                 {{- $commentConfig = dict "serverURLs" . | dict "valine" | merge $commentConfig -}}
             {{- end -}}
-            {{- $commentConfig = $valine.emoji | default "google.yml" | printf "data/emoji/%v" | resources.Get | transform.Unmarshal | dict "valine" | merge $commentConfig -}}
+            {{- $commentConfig = $valine.emoji | default "google.yml" | printf "lib/valine/emoji/%v" | resources.Get | transform.Unmarshal | dict "valine" | merge $commentConfig -}}
             <noscript>
                 Please enable JavaScript to view the comments powered by <a href="https://valine.js.org/">Valine</a>.
             </noscript>
@@ -77,28 +77,29 @@
         {{- /* Telegram Comments System */ -}}
         {{- $telegram := $comment.telegram | default dict -}}
         {{- if $telegram.enable -}}
-            <div id="telegram-comments" class="comment"></div>
-            {{- $attr := printf `data-comments-app-website="%v"` $telegram.siteID -}}
-            {{- $attr = printf `%v data-limit="%v"` $attr ($telegram.limit | default 5) -}}
-            {{- with $telegram.height -}}
-                {{- $attr = printf `%v data-height="%v"` $attr . -}}
-            {{- end -}}
-            {{- with $telegram.color -}}
-                {{- $attr = printf `%v data-color="%v"` $attr . -}}
-            {{- end -}}
-            {{- if $telegram.colorful -}}
-                {{- $attr = printf `%v data-colorful="1"` $attr -}}
-            {{- end -}}
-            {{- if $telegram.dislikes -}}
-                {{- $attr = printf `%v data-dislikes="1"` $attr -}}
-            {{- end -}}
-            {{- if $telegram.outlined -}}
-                {{- $attr = printf `%v data-outlined="1"` $attr -}}
-            {{- end -}}
-            {{- dict "Source" "https://comments.app/js/widget.js?2" "Defer" true "Attr" $attr | dict "Scratch" .Scratch "Data" | partial "scratch/script.html" -}}
-            <noscript>
-                Please enable JavaScript to view the comments powered by <a href="https://comments.app/">Telegram Comments</a>.
-            </noscript>
+            <div id="telegram-comments" class="comment">
+                {{- $attr := printf `data-comments-app-website="%v"` $telegram.siteID -}}
+                {{- $attr = printf `%v data-limit="%v"` $attr ($telegram.limit | default 5) -}}
+                {{- with $telegram.height -}}
+                    {{- $attr = printf `%v data-height="%v"` $attr . -}}
+                {{- end -}}
+                {{- with $telegram.color -}}
+                    {{- $attr = printf `%v data-color="%v"` $attr . -}}
+                {{- end -}}
+                {{- if $telegram.colorful -}}
+                    {{- $attr = printf `%v data-colorful="1"` $attr -}}
+                {{- end -}}
+                {{- if $telegram.dislikes -}}
+                    {{- $attr = printf `%v data-dislikes="1"` $attr -}}
+                {{- end -}}
+                {{- if $telegram.outlined -}}
+                    {{- $attr = printf `%v data-outlined="1"` $attr -}}
+                {{- end -}}
+                {{- dict "Source" "https://comments.app/js/widget.js?3" "Defer" true "Attr" $attr | partial "plugin/script.html" -}}
+                <noscript>
+                    Please enable JavaScript to view the comments powered by <a href="https://comments.app/">Telegram Comments</a>.
+                </noscript>
+            </div>
         {{- end -}}
 
         {{- /* Commento Comment System */ -}}
@@ -111,7 +112,7 @@
             </noscript>
         {{- end -}}
 
-        {{- /* Utterances Comment System */ -}}
+        {{- /* utterances Comment System */ -}}
         {{- $utterances := $comment.utterances | default dict -}}
         {{- if $utterances.enable -}}
             <div id="utterances" class="comment"></div>
@@ -121,7 +122,7 @@
             {{- $commentConfig = $utterances.lightTheme | default "github-light" | dict "lightTheme" | dict "utterances" | merge $commentConfig -}}
             {{- $commentConfig = $utterances.darkTheme | default "github-dark" | dict "darkTheme" | dict "utterances" | merge $commentConfig -}}
             <noscript>
-                Please enable JavaScript to view the comments powered by <a href="https://utteranc.es/">Utterances</a>.
+                Please enable JavaScript to view the comments powered by <a href="https://utteranc.es/">utterances</a>.
             </noscript>
         {{- end -}}
 
