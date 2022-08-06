@@ -14,7 +14,7 @@ themesDir = "./themes"
 enableRobotsTXT = true
 # whether to use git commit log
 # 是否使用 git 信息
-enableGitInfo = true
+enableGitInfo = false
 # whether to use emoji code
 # 是否使用 emoji 代码
 enableEmoji = true
@@ -144,7 +144,7 @@ enableEmoji = true
 [params]
   # LoveIt theme version
   # LoveIt 主题版本
-  version = "0.1.X"
+  version = "0.2.11"
   # public git repo url only then enableGitInfo is true
   # 公共 git 仓库路径，仅在 enableGitInfo 设为 true 时有效
   gitRepo = "https://github.com/dillonzq/LoveIt"
@@ -182,7 +182,7 @@ enableEmoji = true
     lightgallery = true
     # whether to show link to Raw Markdown content of the post
     # 是否在文章页面显示原始 Markdown 文档链接
-    linkToMarkdown = true
+    linkToMarkdown = false
   # site verification code for Google/Bing/Yandex/Pinterest/Baidu
   # 网站验证代码，用于 Google/Bing/Yandex/Pinterest/Baidu
   [params.verification]
