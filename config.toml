@@ -33,7 +33,7 @@ enableEmoji = true
     # 默认每页列表显示的文章数目
     paginate = 12
     # [UA-XXXXXXXX-X] 谷歌分析代号
-    googleAnalytics = "UA-159334107-1"
+    # googleAnalytics = "UA-159334107-1"
     # 版权描述，仅仅用于 SEO
     copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
     # 日期格式
@@ -190,6 +190,14 @@ enableEmoji = true
     yandex = ""
     pinterest = ""
     baidu = ""
+  [params.analytics]
+    enable = false
+    # Google Analytics
+    [params.analytics.google]
+      id = "G-H4ZZ1CZ5NV"
+      # whether to anonymize IP
+      # 是否匿名化用户 IP
+      anonymizeIP = true
   # Publisher Info just for SEO
   # 出版者信息，仅用于 SEO
   [params.publisher]
