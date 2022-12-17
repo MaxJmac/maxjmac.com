@@ -189,7 +189,7 @@ enableEmoji = true
     pinterest = ""
     baidu = ""
   [params.analytics]
-    enable = false
+    enable = true
     # Google Analytics
     [params.analytics.google]
       id = "G-H4ZZ1CZ5NV"
