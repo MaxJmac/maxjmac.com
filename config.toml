@@ -32,8 +32,6 @@ enableEmoji = true
     hasCJKLanguage = true
     # 默认每页列表显示的文章数目
     paginate = 12
-    # [UA-XXXXXXXX-X] 谷歌分析代号
-    # googleAnalytics = "UA-159334107-1"
     # 版权描述，仅仅用于 SEO
     copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
     # 日期格式
@@ -318,9 +316,6 @@ enableEmoji = true
 # Privacy Info (https://gohugo.io/about/hugo-and-gdpr/)
 # 隐私信息设置 (https://gohugo.io/about/hugo-and-gdpr/)
 [privacy]
-  [privacy.googleAnalytics]
-    anonymizeIP = true
-
   [privacy.youtube]
     privacyEnhanced = true
 
