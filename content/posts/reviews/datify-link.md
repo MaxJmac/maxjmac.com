@@ -27,7 +27,7 @@ comment:
 
 ![Datify.Link](/images/datify-link/intro.png)
 
-### 关于[Datify.Link](https://bhvnd.com/datify?s=MaxJmac)广告联盟
+### 关于[Datify.Link](https://datify.link/registration?ref=xpagffgg)广告联盟
 
 Datify.Link是一家2018年成立的CPA广告联盟。这家联盟提供独特的产品：独家offer的智能链接（Smartlink）和独家直客CPA offers。Datify.Link最主要目的就是将联盟营销世界提升到一个新的质量水平。
 
@@ -47,7 +47,7 @@ Smartlink是个”智能“的链接。这个链接里有几个不同的offer，
 
 ##### 如何开始使用Datify.Link？
 
-第一步：注册Datify.Link平台----[https://bhvnd.com/datify?s=MaxJmac](https://bhvnd.com/datify?s=MaxJmac)
+第一步：注册Datify.Link平台----[https://datify.link/registration?ref=xpagffgg](https://datify.link/registration?ref=xpagffgg)
 
 ![](/images/datify-link/step1.png)
 
@@ -112,6 +112,6 @@ Datify.Link是一个CPA联盟，主要的垂直领域就是约会。11.11是光�
 
 活动条件：11.11-12.12跑任何流量，提现111欧/美元起，就获得一次11%返现。支付方式：Visa, MC, tether USDT, 比特币, 支付宝, Payoneer, Capitalist。
 
-来跟[Datify.Link](https://bhvnd.com/datify?s=MaxJmac)一起跑约会流量吧！
+来跟[Datify.Link](https://datify.link/registration?ref=xpagffgg)一起跑约会流量吧！
 
-注册链接：[https://bhvnd.com/datify?s=MaxJmac](https://bhvnd.com/datify?s=MaxJmac)
+注册链接：[https://datify.link/registration?ref=xpagffgg](https://datify.link/registration?ref=xpagffgg)
