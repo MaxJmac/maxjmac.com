@@ -1,6 +1,6 @@
 ---
 title: "关于我"
-date: 2020-03-25T14:30:00+08:00
+date: 2023-02-25T15:05:00+08:00
 draft: false
 
 math: true
@@ -11,6 +11,7 @@ lightgallery: true
 
 #### 联系方式
 微信: `MaxJmac`
+Skype: `live:maxjmac_2`
 
 #### 我的微信公众号
 ![微信公众号](/images/gzh.png)
