@@ -27,11 +27,11 @@ comment:
 
 ## 优惠
 
-- Binom注册:[https://binom.org/signup?from=MAXJMAC](https://binom.org/signup?from=MAXJMAC)使用Promo code: `MAXJMAC`，首月免费，次月六折。
+- Binom注册:[https://go.maxjmac.com/binom](https://go.maxjmac.com/binom)使用Promo code: `MAXJMAC`，首月免费，次月六折。
 
-- DigitalOcean注册:[https://m.do.co/c/194ba0ca4bf2](https://m.do.co/c/194ba0ca4bf2)送100$，有效期60天，相当于免费使用2个月。
+- DigitalOcean注册:[https://go.maxjmac.com/digitalocean](https://go.maxjmac.com/digitalocean)送200$，有效期60天，相当于免费使用2个月。
 
-- Namecheap注册:[https://namecheap.pxf.io/GjOgMk](https://namecheap.pxf.io/GjOgMk)购买时使用优惠码`COUPONFCNC`
+- Namecheap注册:[https://go.maxjmac.com/namecheap](https://go.maxjmac.com/namecheap)购买时使用优惠码`COUPONFCNC`
 
 ## Binom的特点和优势
 
@@ -43,7 +43,7 @@ Binom是不限事件数的，也就是说不论你跑多大的量，只要你的
 
 ### 1.服务器准备
 
-通过上方[优惠链接](https://m.do.co/c/194ba0ca4bf2)注册DigitalOcean后，点击右上角Create，选择Droplets，界面如图：
+通过上方[优惠链接](https://go.maxjmac.com/digitalocean)注册DigitalOcean后，点击右上角Create，选择Droplets，界面如图：
 
 ![create-droplets](/images/binom-install-chinese-guide/create-droplets.png)
 
@@ -67,7 +67,7 @@ Binom是不限事件数的，也就是说不论你跑多大的量，只要你的
 
 这里建议使用Cloudflare来做DNS和CDN。
 
-[Namecheap](https://namecheap.pxf.io/GjOgMk)购买好域名后，登录到Cloudflare后台，点击添加站点，输入你的域名，计划选择最下方的免费0美元的即可。
+[Namecheap](https://go.maxjmac.com/namecheap)购买好域名后，登录到Cloudflare后台，点击添加站点，输入你的域名，计划选择最下方的免费0美元的即可。
 
 ![cloudflare](/images/binom-install-chinese-guide/cloudflare.png)
 
@@ -89,7 +89,7 @@ Binom是不限事件数的，也就是说不论你跑多大的量，只要你的
 
 ### 3.Binom注册
 
-使用优惠链接[https://binom.org/signup?from=MAXJMAC](https://binom.org/signup?from=MAXJMAC)注册，获得首月免费，次月六折优惠。
+使用优惠链接[https://go.maxjmac.com/binom](https://go.maxjmac.com/binom)注册，获得首月免费，次月六折优惠。
 
 ![binom-register](/images/binom-install-chinese-guide/binom-register.png)
 
