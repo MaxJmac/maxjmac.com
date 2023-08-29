@@ -111,7 +111,7 @@ enableEmoji = true
           defaultHiddenFromHomePage = false
       # 主页的社交信息设置
       [languages.zh-cn.params.social]
-        Email = "maxjmac@icloud.com"
+        Email = "themaxjmac@gmail.com"
         # Weibo = "xxxx"
         Zhihu = "maxjmac"
         # Bilibili = "xxxx"
