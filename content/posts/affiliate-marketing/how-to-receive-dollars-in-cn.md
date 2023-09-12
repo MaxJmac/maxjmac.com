@@ -41,7 +41,7 @@ comment:
 缺点：
 - 不是所有联盟都支持。
 
-注册链接：[http://share.payoneer.com/nav/KTnrCgS_zbcxPqWcqbu5a9n2Suc_vDlatQYkkCLplgzx7RxJwAVTChhAkqWUG3DLJo-RGlcko-TPrvFyehcajA2](http://share.payoneer.com/nav/KTnrCgS_zbcxPqWcqbu5a9n2Suc_vDlatQYkkCLplgzx7RxJwAVTChhAkqWUG3DLJo-RGlcko-TPrvFyehcajA2) 通过这个链接注册，当你收款满1000刀时，你我都会得到25刀。
+注册链接：[https://go.maxjmac.com/payoneer](https://go.maxjmac.com/payoneer) 通过这个链接注册，当你收款满1000刀时，你我都会得到25刀。
 
 ##### 2. Paxum
 很多流量源支持使用Paxum充值，充值手续费相对其他方式而言比较低，有些联盟也支持Paxum收款，所以适合用来做现金流，即从联盟收款，再充值到流量源，利润到一定数额后再用其他收款方式提出部分，留一部分继续做现金流。
