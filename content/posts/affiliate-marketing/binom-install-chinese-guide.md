@@ -27,7 +27,7 @@ comment:
 
 ## 优惠
 
-- Binom注册:[https://go.maxjmac.com/binom](https://go.maxjmac.com/binom)使用Promo code: `MAXJMAC`，首月免费，次月六折。
+- Binom注册:[https://binom.org/signup?from=MAXJMAC60](https://binom.org/signup?from=MAXJMAC60)使用Promo code: `MAXJMAC60`，首月免费，次月四折。
 
 - DigitalOcean注册:[https://go.maxjmac.com/digitalocean](https://go.maxjmac.com/digitalocean)送200$，有效期60天，相当于免费使用2个月。
 
@@ -89,7 +89,7 @@ Binom是不限事件数的，也就是说不论你跑多大的量，只要你的
 
 ### 3.Binom注册
 
-使用优惠链接[https://go.maxjmac.com/binom](https://go.maxjmac.com/binom)注册，获得首月免费，次月六折优惠。
+使用优惠链接[https://binom.org/signup?from=MAXJMAC60](https://binom.org/signup?from=MAXJMAC60)注册，获得首月免费，次月四折优惠。
 
 ![binom-register](/images/binom-install-chinese-guide/binom-register.png)
 
