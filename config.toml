@@ -51,42 +51,42 @@ enableEmoji = true
         name = "Affiliate导航"
         url = "https://nav.maxjmac.com/"
         title = ""
-        weight = 1
+        weight = 2
       [[languages.zh-cn.menu.main]]
         identifier = "posts"
         pre = ""
         name = "所有文章"
         url = "/posts/"
         title = ""
-        weight = 1
+        weight = 3
       [[languages.zh-cn.menu.main]]
         identifier = "tags"
         pre = ""
         name = "标签"
         url = "/tags/"
         title = ""
-        weight = 2
+        weight = 4
       [[languages.zh-cn.menu.main]]
         identifier = "categories"
         pre = ""
         name = "分类"
         url = "/categories/"
         title = ""
-        weight = 3
+        weight = 5
       [[languages.zh-cn.menu.main]]
         identifier = "resources"
         pre = ""
         name = "资源推荐"
         url = "/resources/"
         title = ""
-        weight = 4
+        weight = 6
       [[languages.zh-cn.menu.main]]
         identifier = "about"
         pre = ""
         name = "关于"
         url = "/about/"
         title = ""
-        weight = 5
+        weight = 7
     [languages.zh-cn.params]
       # 网站描述
       description = "专注于构建被动收入系统，程序员一枚，同时是Affiliate Marketer，Media Buyer"
