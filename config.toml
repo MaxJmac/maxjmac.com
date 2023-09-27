@@ -39,6 +39,13 @@ enableEmoji = true
     # 菜单信息
     [languages.zh-cn.menu]
       [[languages.zh-cn.menu.main]]
+        identifier = "guide"
+        pre = ""
+        name = "Media buy教程"
+        url = "https://www.patreon.com/maxjmac"
+        title = ""
+        weight = 1
+      [[languages.zh-cn.menu.main]]
         identifier = "nav"
         pre = ""
         name = "Affiliate导航"
