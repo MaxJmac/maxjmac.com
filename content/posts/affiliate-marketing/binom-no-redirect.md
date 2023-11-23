@@ -33,11 +33,13 @@ comment:
 
 这个需求不仅可以满足FB的审核，同时也可以在你投放其他类型的广告时(Push/Pop/Banner/Native)，避免重定向带来的点损，从而提升LP CTR及整体表现。
 
+
 顺手打个广告，通过我的链接注册Binom可享受首月免费，次月四折的优惠，四折是全网最低了，你用其他流量源或联盟的链接次月最低只能六折。链接如下：
 
 [https://binom.org/signup?from=MAXJMAC60](https://binom.org/signup?from=MAXJMAC60)
 
 或者可以直接使用优惠码: **MAXJMAC60**
+
 
 ### 操作步骤
 
