@@ -12,7 +12,7 @@ categories: ["reviews"]
 slug: "affiliate-marketing"
 hiddenFromHomePage: false
 
-featuredImage: "/images/tacoloco-network/hero.jpg"
+featuredImage: "/images/tacoloco-network/hero.png"
 featuredImagePreview: ""
 
 toc: true
