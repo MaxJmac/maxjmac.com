@@ -130,7 +130,7 @@ enableEmoji = true
         # Bilibili = "xxxx"
       # 文章页面的分享信息设置
       [languages.zh-cn.params.share]
-        enable = false
+        enable = true
       # 评论系统设置
       [languages.zh-cn.params.comment]
         enable = true
