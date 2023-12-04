@@ -44,7 +44,7 @@ Go to the Tracker backend, switch to the Landers tab, and click the **+ Create**
 Enter the LP name, click **No-redirect** in the URL/No-redirect column, and upload your zip file.
 After successful upload, click the green **Save** button.
 
-![new-landing](new-landing.png)
+![new-landing](new-landing.png "new-landing")
 
 The default path for files starts with **landers/**. The complete access address is any domain of your tracker followed by the path. For example, if my tracker's domain is maxjmac.com, the full access path would be `https://maxjmac.com/landers/us_vacuum/vacuum/index.html`. The first 'us_vacuum' after 'landers' is based on the Landing's name; if you don't enter a name when uploading, a random string of characters will be assigned, and the second 'vacuum' is the name of my compressed file's folder.
 
