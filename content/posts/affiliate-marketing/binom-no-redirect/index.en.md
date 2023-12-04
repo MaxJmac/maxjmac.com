@@ -78,7 +78,7 @@ Then, go to the Files tab, find the folder where your Landing Page is located, s
 #### 3.Access Test:
 
 Go back to the campaign you just created, copy the Campaign URL, and replace it for Facebook ad promoting as direct redirects are not allowed.
-The new URL will be something like https://maxjmac.com/vacuum/index.html?ad_id={{ad.id}}&adset_id={{adset.id}}&campaign_id={{campaign.id}}&site_source_name={{site_source_name}}&placement={{placement}}.
+The new URL will be something like `https://maxjmac.com/vacuum/index.html?ad_id={{ad.id}}&adset_id={{adset.id}}&campaign_id={{campaign.id}}&site_source_name={{site_source_name}}&placement={{placement}}`.
 
 When using this link for promoting, users directly visit the Landing Page without redirects. This is essentially moving the parameters from the campaign URL to the end of the Landing Page URL. The key parameter information from the campaign URL is already in the LP Pixel code and added to the head tag of the Landing Page. After visiting the URL and clicking the final CTA button, it will properly redirect to the offer page and correctly record LP CTR and other information.
 
