@@ -2,6 +2,12 @@ baseURL = "https://maxjmac.com"
 # [en, zh-cn, ...] determines default content language
 # [en, zh-cn, ...] 设置默认的语言
 defaultContentLanguage = "zh-cn"
+# language code ["en", "zh-CN", "fr", "pl", ...]
+# 网站语言, 仅在这里 CN 大写 ["en", "zh-CN", "fr", "pl", ...]
+languageCode = "zh-CN"
+# language name ["English", "简体中文", "Français", "Polski", ...]
+# 语言名称 ["English", "简体中文", "Français", "Polski", ...]
+languageName = "简体中文"
 # theme
 # 主题
 theme = "LoveIt"
@@ -21,7 +27,7 @@ enableEmoji = true
 
 [languages]
   [languages.zh-cn]
-    weight = 2
+    weight = 1
     # 网站语言, 仅在这里 CN 大写
     languageCode = "zh-CN"
     # 网站标题
@@ -129,6 +135,130 @@ enableEmoji = true
       [languages.zh-cn.params.comment]
         enable = true
         [languages.zh-cn.params.page.comment.giscus]
+          enable = true
+          repo = "MaxJmac/maxjmac.com"
+          repoId = "MDEwOlJlcG9zaXRvcnkyNDk4OTU0OTU="
+          category = "Announcements"
+          categoryId = "DIC_kwDODuUaR84CQpwc"
+          # automatically adapt the current theme i18n configuration when empty
+          # 为空时自动适配当前主题 i18n 配置
+          lang = "zh-CN"
+          mapping = "pathname"
+          reactionsEnabled = "1"
+          emitMetadata = "0"
+          inputPosition = "bottom"
+          lazyLoading = true
+          lightTheme = "light_protanopia"
+          darkTheme = "dark_dimmed"
+  [languages.en]
+    weight = 2
+    # 网站语言, 仅在这里 CN 大写
+    languageCode = "en"
+    # 网站标题
+    title = "MaxJmac's Open Source Life"
+    # 语言名称
+    languageName = "English"
+    # 是否包括中日韩文字
+    hasCJKLanguage = false
+    # 默认每页列表显示的文章数目
+    paginate = 12
+    # 版权描述，仅仅用于 SEO
+    copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
+    # 日期格式
+    dateFormatToUse = "2006-01-02"
+    # 菜单信息
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "guide"
+        pre = ""
+        name = "Media buy Guide"
+        url = "https://www.patreon.com/maxjmac"
+        title = ""
+        weight = 1
+      [[languages.en.menu.main]]
+        identifier = "nav"
+        pre = ""
+        name = "Affiliate Navigation"
+        url = "https://nav.maxjmac.com/"
+        title = ""
+        weight = 2
+      [[languages.en.menu.main]]
+        identifier = "posts"
+        pre = ""
+        name = "Posts"
+        url = "/posts/"
+        title = ""
+        weight = 3
+      [[languages.en.menu.main]]
+        identifier = "tags"
+        pre = ""
+        name = "Tags"
+        url = "/tags/"
+        title = ""
+        weight = 4
+      [[languages.en.menu.main]]
+        identifier = "categories"
+        pre = ""
+        name = "Categories"
+        url = "/categories/"
+        title = ""
+        weight = 5
+      [[languages.en.menu.main]]
+        identifier = "resources"
+        pre = ""
+        name = "Resources"
+        url = "/resources/"
+        title = ""
+        weight = 6
+      [[languages.en.menu.main]]
+        identifier = "about"
+        pre = ""
+        name = "About Me"
+        url = "/about/"
+        title = ""
+        weight = 7
+    [languages.en.params]
+      # 网站描述
+      description = "Focus on bulidn passive income. Programmer, Affiliate Marketer，Media Buyer"
+      # 网站关键词
+      keywords = ["Media buy", "Affiliate Marketing"]
+      # 网站默认主题 ("light", "dark", "auto")
+      defaultTheme = "auto"
+      # 主页信息设置
+      [languages.en.params.home]
+        # 主页个人信息
+        [languages.en.params.home.profile]
+          enable = true
+          # Gravatar 邮箱，用于优先在主页显示的头像
+          gravatarEmail = ""
+          # 主页显示头像的 URL
+          avatarURL = "/images/avatar.jpg"
+          # 主页显示的网站副标题
+          subtitle = "LOVE wat u do. Do it GREAT."
+          # 是否为副标题显示打字机动画
+          typeit = true
+          # 是否显示社交账号
+          social = true
+        # 主页文章列表
+        [languages.en.params.home.posts]
+          enable = true
+          # 主页每页显示文章数量
+          paginate = 6
+          # 当你没有在文章前面设置 "hiddenFromHomePage" 时的默认行为
+          defaultHiddenFromHomePage = false
+      # 主页的社交信息设置
+      [languages.en.params.social]
+        Email = "maxjmac@pm.me"
+        # Weibo = "xxxx"
+        Zhihu = "maxjmac"
+        # Bilibili = "xxxx"
+      # 文章页面的分享信息设置
+      [languages.en.params.share]
+        enable = false
+      # 评论系统设置
+      [languages.en.params.comment]
+        enable = true
+        [languages.en.params.page.comment.giscus]
           enable = true
           repo = "MaxJmac/maxjmac.com"
           repoId = "MDEwOlJlcG9zaXRvcnkyNDk4OTU0OTU="
