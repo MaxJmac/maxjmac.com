@@ -46,7 +46,7 @@ After successful upload, click the green **Save** button.
 
 ![new-landing](new-landing.png "new-landing")
 
-The default path for files starts with **landers/**. The complete access address is any domain of your tracker followed by the path. For example, if my tracker's domain is maxjmac.com, the full access path would be `https://maxjmac.com/landers/us_vacuum/vacuum/index.html`. The first 'us_vacuum' after 'landers' is based on the Landing's name; if you don't enter a name when uploading, a random string of characters will be assigned, and the second 'vacuum' is the name of my compressed file's folder.
+The default path for files starts with **landers/**. The complete access address is any domain of your tracker followed by the path. For example, if my tracker's domain is maxjmac.com, the full access path would be `https://maxjmac.com/landers/us_vacuum/vacuum/index.html`. The first **us_vacuum** after **landers** is based on the Landing's name; if you don't enter a name when uploading, a random string of characters will be assigned, and the second **vacuum** is the name of my compressed file's folder.
 
 ![landers-url](landers-url.png "landers-url")
 
@@ -54,23 +54,23 @@ If you don't like the domain name followed by such a long path, you can switch t
 
 ![files](files.png "files")
 
-Double-click to enter the 'us_vacuum' folder, select your folder, and then click the Cut button at the top to cut it.
+Double-click to enter the **us_vacuum** folder, select your folder, and then click the Cut button at the top to cut it.
 
 ![cut](cut.png "cut")
 
-Then click the 'To parent' button to go back to the parent directory, click the 'To parent' button again to return to the directory at the same level as the 'landers' folder, which is the root directory of the domain. Click the Paste button to paste the folder into the root directory.
-Go back to the 'Landers' tab, find your Landing Page that you were working on, edit the path by deleting the preceding 'landers/us_vacuum/' and save it, as shown in the following image:
+Then click the **To parent** button to go back to the parent directory, click the **To parent** button again to return to the directory at the same level as the **landers** folder, which is the root directory of the domain. Click the Paste button to paste the folder into the root directory.
+Go back to the **Landers** tab, find your Landing Page that you were working on, edit the path by deleting the preceding **landers/us_vacuum/** and save it, as shown in the following image:
 
 ![short](short.png "short")
 
-Now, your Landing Page access path will become `https://maxjmac.com/vacuum/index.html`. You can click the blue 'Test' button on the right of the above picture to test it.
+Now, your Landing Page access path will become `https://maxjmac.com/vacuum/index.html`. You can click the blue **Test** button on the right of the above picture to test it.
 
 #### 2.Creating a campaign:
 
 ![campaign](campaign.png "campaign")
 
-As shown in the above picture, after setting up the campaign, click 'Advanced Settings' on the left, click the 'Copy' button next to LP Pixel, and copy the code.
-Then, go to the Files tab, find the folder where your Landing Page is located, select 'index.html', click 'Edit' at the top, paste the code before the **</head>** tag, and save.
+As shown in the above picture, after setting up the campaign, click **Advanced Settings** on the left, click the **Copy** button next to LP Pixel, and copy the code.
+Then, go to the Files tab, find the folder where your Landing Page is located, select **index.html**, click **Edit** at the top, paste the code before the **</head>** tag, and save.
 
 ![lp-pixel](lp-pixel.png "lp-pixel")
 
