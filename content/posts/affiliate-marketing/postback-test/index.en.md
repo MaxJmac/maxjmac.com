@@ -1,5 +1,5 @@
 ---
-title: "How to test postback"
+title: "How to test postback with affiliate networks"
 date: 2023-02-17T18:30:00+08:00
 draft: false
 author: "MaxJmac"
