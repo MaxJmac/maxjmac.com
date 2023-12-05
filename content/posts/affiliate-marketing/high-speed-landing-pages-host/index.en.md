@@ -1,5 +1,5 @@
 ---
-title: "High Speed Landing Pages Host"
+title: "How to host your Landing Pages with High Speed and FREE"
 date: 2022-04-16T21:30:00+08:00
 draft: false
 author: "MaxJmac"
