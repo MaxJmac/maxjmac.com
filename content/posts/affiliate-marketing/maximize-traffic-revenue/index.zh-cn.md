@@ -81,7 +81,7 @@ BBR是Back Button Redirect的简称，也就是返回按钮重定向。
 
 也许有人会想当然的认为，这种根本不会转化的呀，然而根据实测的效果，是会转化的。
 
-话不多，直接先看看效果：
+话不多说，直接先看看效果：
 
 ![stats](/images/maximize-traffic-revenue/stats.png)
 
