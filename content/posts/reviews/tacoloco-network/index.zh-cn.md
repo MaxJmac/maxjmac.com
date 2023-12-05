@@ -9,7 +9,7 @@ license: ""
 
 tags: ["Affiliate-Marketing","Media-Buy","Reviews"]
 categories: ["reviews"]
-slug: "affiliate-marketing"
+slug: "reviews"
 hiddenFromHomePage: false
 
 featuredImage: "/images/tacoloco-network/hero.png"
