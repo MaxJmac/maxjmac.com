@@ -127,6 +127,7 @@ enableEmoji = true
         Email = "maxjmac@pm.me"
         # Weibo = "xxxx"
         Zhihu = "maxjmac"
+        Linkedin = "maxjmac"
         # Bilibili = "xxxx"
       # 文章页面的分享信息设置
       [languages.zh-cn.params.share]
