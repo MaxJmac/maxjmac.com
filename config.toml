@@ -128,7 +128,7 @@ enableEmoji = true
         # Weibo = "xxxx"
         Zhihu = "maxjmac"
         Linkedin = "maxjmac"
-        Skype = "live:maxjmac_2"
+        Skype = "live:maxjmac_2?chat"
         # Bilibili = "xxxx"
       # 文章页面的分享信息设置
       [languages.zh-cn.params.share]
@@ -254,7 +254,7 @@ enableEmoji = true
         # Weibo = "xxxx"
         Zhihu = "maxjmac"
         Linkedin = "maxjmac"
-        Skype = "live:maxjmac_2"
+        Skype = "live:maxjmac_2?chat"
         # Bilibili = "xxxx"
       # 文章页面的分享信息设置
       [languages.en.params.share]
