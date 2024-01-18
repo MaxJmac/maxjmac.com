@@ -19,5 +19,5 @@ Skype: `live:maxjmac_2`
 #### 我的知识星球
 ![知识星球](/images/optimize-campaign/zsxq.jpg)
 
-#### 请我喝咖啡
-[请我喝咖啡](https://ko-fi.com/maxjmac)
+#### 请我喝奶茶
+![微信赞赏码](/images/zsm.jpg)
