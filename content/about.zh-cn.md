@@ -17,7 +17,7 @@ Skype: `live:maxjmac_2`
 ![微信公众号](/images/gzh.png)
 
 #### 我的知识星球
-![知识星球](/images/optimize-campaign/zsxq.jpg)
+![知识星球](/images/zsxq.jpg)
 
 #### 请我喝奶茶
 ![微信赞赏码](/images/zsm.jpg)
