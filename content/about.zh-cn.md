@@ -1,13 +1,13 @@
 ---
 title: "关于我"
-date: 2023-02-25T15:05:00+08:00
+date: 2024-02-21T23:53:00+08:00
 draft: false
 
 math: true
 lightgallery: true
 ---
 
-程序员，Performance Marketer，Affiliate Marketer，Media Buyer
+我是MaxJmac，又叫Flon。是一个Affiliate Marketer，Media buyer，Performance Marketer。从2019年12月中开始进入这个行业，现在全职做Media buy。
 
 #### 联系方式
 微信: `MaxJmac`
