@@ -359,6 +359,8 @@ enableEmoji = true
     url = "cover.png"
     width = 800
     height = 600
+  [params.cookieconsent]
+    enable = false
   # CSS and JS Files CDN
   # CSS 和 JS 文件的 CDN 设置
   [params.cdn]
