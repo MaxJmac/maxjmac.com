@@ -130,6 +130,7 @@ enableEmoji = true
         Linkedin = "maxjmac"
         Skype = "live:maxjmac_2?chat"
         # Bilibili = "xxxx"
+        RSS = false
       # 文章页面的分享信息设置
       [languages.zh-cn.params.share]
         enable = false
@@ -256,6 +257,7 @@ enableEmoji = true
         Linkedin = "maxjmac"
         Skype = "live:maxjmac_2?chat"
         # Bilibili = "xxxx"
+        RSS = false
       # 文章页面的分享信息设置
       [languages.en.params.share]
         enable = false
