@@ -53,7 +53,7 @@ comment:
 
 ### MaxConv界面
 
-![maxconv-dashboard](./maxconv-dashboard.png)
+![maxconv-dashboard](/images/maxconv-guide/maxconv-dashboard.png)
 
 界面非常简洁，加载速度也很快，如图是仪表盘部分，下文会进行实操逐一介绍各功能，这里就不多做介绍。
 
@@ -63,87 +63,87 @@ comment:
 
 #### 1.联盟配置
 
-![affiliate-networks](./affiliate-networks.png)
+![affiliate-networks](/images/maxconv-guide/affiliate-networks.png)
 
 点击上图中1处切换到Affiliate Networks即联盟界面，点击2处创建新联盟，在弹出窗口中输入`Golden Goose`即可找到相应模板，如下图：
 
-![network-template](./network-template.png)
+![network-template](/images/maxconv-guide/network-template.png)
 
 选择模板后在打开的窗口中复制右下角的postback链接，然后点击右下角的Save按钮即可，如下图：
 
-![golden-goose](./golden-goose.png)
+![golden-goose](/images/maxconv-guide/golden-goose.png)
 
 打开Golden Goose的后台，点击右上角邮箱，点击Account，将postback链接粘贴到PostBack URL处，如下图：
 
-![postback](./postback.png)
+![postback](/images/maxconv-guide/postback.png)
 
 图中文本的选中部分可有可无，删去亦可，留着也无妨。点击下方Update保存即可。
 
 #### 2.流量源配置
 
-![traffic-sources](./traffic-sources.png)
+![traffic-sources](/images/maxconv-guide/traffic-sources.png)
 
 点击上图中1处切换到Traffic Sources即流量源页面，点击2处创建新流量源，在弹出窗口中选择PropellerAds，如下图：
 
-![propellerads-0](./propellerads-0.png)
+![propellerads-0](/images/maxconv-guide/propellerads-0.png)
 
 打开PropellerAds后台，点击左侧菜单的Tracking，在打开的页面中选择右下角的Other tracker or CPA Network，如下图：
 
-![propellerads-1](./propellerads-1.png)
+![propellerads-1](/images/maxconv-guide/propellerads-1.png)
 
 在打开的页面中，点击Copy this S2S Postback URL以复制流量源的postback，如下图：
 
-![propellerads-2](./propellerads-2.png)
+![propellerads-2](/images/maxconv-guide/propellerads-2.png)
 
 回到MaxConv的PropellerAds配置页面，将链接中的`${SUBID}`替换成`{external_id}`，`${PAYOUT}`替换成`{payout}`，如下图划线处所示：
 
-![propellerads-3](./propellerads-3.png)
+![propellerads-3](/images/maxconv-guide/propellerads-3.png)
 
 点击右下角的Save按钮保存即可。
 
 #### 3.Offer配置
 
-![offer-0](./offer-0.png)
+![offer-0](/images/maxconv-guide/offer-0.png)
 
 打开Golden Goose后台，选择其中一个Offer，点击`VIEW DETAILS & GET LINK`按钮，在打开的页面中，点击Offer详情页右方的GET LINK按钮，如下图：
 
-![offer-1](./offer-1.png)
+![offer-1](/images/maxconv-guide/offer-1.png)
 
 在打开的页面中，点击下图中红框部分复制offer链接，最后点击右下角的Finish按钮即可。
 
-![offer-2](./offer-2.png)
+![offer-2](/images/maxconv-guide/offer-2.png)
 
 回到MaxConv后台，点击1处切换到Offers页面，点击2处Create按钮，如下图：
 
-![offer-3](./offer-3.png)
+![offer-3](/images/maxconv-guide/offer-3.png)
 
 在弹出的窗口中，Name处填入`联盟名称-offerid-GEO[-运营商]`（命名习惯只是建议，请随意，下同），下方Affiliate Network选择Golden Goose，将联盟处复制的offer链接粘贴到URL处，将`{mc_click_id}`拼接到`p1=`后，其余部分可以删去，最后点击右下角的Save按钮保存即可，如下图：
 
-![offer-4](./offer-4.png)
+![offer-4](/images/maxconv-guide/offer-4.png)
 
 #### 4.Lander配置
 
-![lander-0](./lander-0.png)
+![lander-0](/images/maxconv-guide/lander-0.png)
 
 点击上图1处切换到Landers即落地页页面，点击2处Create按钮。
 
 在弹出的窗口中，Name处输入`GEO-Lander`的格式，将右侧的Click URL复制，粘贴到Lander最终的跳转按钮处，最后将Lander的访问链接填入URL处，点击右下角Save保存即可，如下图：
 
-![lander-1](./lander-1.png)
+![lander-1](/images/maxconv-guide/lander-1.png)
 
 #### 5.Flow配置
 
 Flow并不是必要配置，只有当你多个campaign共用一个Funnel的时候方便同时修改用，此处只是演示如何配置Flow。
 
-![flow-0](./flow-0.png)
+![flow-0](/images/maxconv-guide/flow-0.png)
 
 点击上图1处切换到Flows页面，点击2处创建Flow。
 
-![flow-1](./flow-1.png)
+![flow-1](/images/maxconv-guide/flow-1.png)
 
 在弹出的窗口中的Flow Name处输入`GEO-Flow名称`，然后点击上方的Destinations切换到Flow配置页面。
 
-![flow-2](./flow-2.png)
+![flow-2](/images/maxconv-guide/flow-2.png)
 
 如上图配置好Landers和Offers后，点击右下角的Save按钮保存即可。
 
@@ -151,43 +151,43 @@ Flow并不是必要配置，只有当你多个campaign共用一个Funnel的时�
 
 Integration也不是必要的配置，但是可以通过API更好的同步流量源的实际Cost，也可以在Tracker控制流量源campaign的启停。
 
-![integration-0](./integration-0.png)
+![integration-0](/images/maxconv-guide/integration-0.png)
 
 点击上图中1处切换到Integration页面，点击上图2处的+ Add Itegration按钮。在弹出的窗口中选择PropellerAds，如下图：
 
-![integration-1](./integration-1.png)
+![integration-1](/images/maxconv-guide/integration-1.png)
 
 打开PropellerAds后台，点击右上角，进入Account settings，切换到API Access，点击Create token按钮，给个命名例如MaxConv。创建成功后复制Token。
 
-![integration-2](./integration-2.png)
+![integration-2](/images/maxconv-guide/integration-2.png)
 
 回到MaxConv，给个命名，API Token处粘贴Token，保持下方Sync Cost开启即可以自动纠正Cost，点击下方Save保存即可，如下图：
 
-![integration-3](./integration-3.png)
+![integration-3](/images/maxconv-guide/integration-3.png)
 
 创建成功后，可以点击下图中按钮，将流量源的campaign与Tracker中的campaign进行匹配，匹配后即可在Tracker中控制启停，如下图：
 
-![integration-4](./integration-4.png)
+![integration-4](/images/maxconv-guide/integration-4.png)
 
 #### 7.Campaign配置
 
-![campaign-0](./campaign-0.png)
+![campaign-0](/images/maxconv-guide/campaign-0.png)
 
 点击上图1处切换到Campaigns页面，点击2处创建新campaign。
 
 在弹出的窗口中，Campaign Name处填入`流量源简称-设备[-出价模式]-GEO-日期`，下方Traffic Source选择PropellerAds，如下图：
 
-![campaign-1](./campaign-1.png)
+![campaign-1](/images/maxconv-guide/campaign-1.png)
 
 随后点击右下角Next进入Destinations设置，可以直接在Paths中配置，也可以使用上面配置好的Flow，如下图：
 
-![campaign-2](./campaign-2.png)
+![campaign-2](/images/maxconv-guide/campaign-2.png)
 
 配置好后点击右下角的Save按钮，会自动跳到第三个Tab Tracking处。
 
 这里的Campaign URL就是我们要放到流量源进行投放的URL，最后点击右下角的Save保存即可，如下图：
 
-![campaign-3](./campaign-3.png)
+![campaign-3](/images/maxconv-guide/campaign-3.png)
 
 ### MaxConv优缺点
 
