@@ -80,10 +80,10 @@ enableEmoji = true
         title = ""
         weight = 5
       [[languages.zh-cn.menu.main]]
-        identifier = "resources"
+        identifier = "promo-codes"
         pre = ""
-        name = "资源推荐"
-        url = "/resources/"
+        name = "优惠码"
+        url = "/promo-codes/"
         title = ""
         weight = 6
       [[languages.zh-cn.menu.main]]
@@ -207,10 +207,10 @@ enableEmoji = true
         title = ""
         weight = 5
       [[languages.en.menu.main]]
-        identifier = "resources"
+        identifier = "promo-codes"
         pre = ""
-        name = "Resources"
-        url = "/resources/"
+        name = "Promo Codes"
+        url = "/promo-codes/"
         title = ""
         weight = 6
       [[languages.en.menu.main]]
