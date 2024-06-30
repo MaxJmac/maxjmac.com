@@ -10,7 +10,7 @@ lightgallery: true
 ### Binom Promo Code
 `MAXJMAC60`
 
-Signup and get FREE 30 days then 60% OFF on second month
+30 days FREE + 60% OFF next month (The Best Deal)
 
 ### Anstrex Promo Code
 `maxjmac_20`
