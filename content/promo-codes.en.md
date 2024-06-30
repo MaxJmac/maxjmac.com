@@ -9,12 +9,15 @@ lightgallery: true
 
 ### Binom Promo Code
 `MAXJMAC60`
+
 Signup and get FREE 30 days then 60% OFF on second month
 
 ### Anstrex Promo Code
 `maxjmac_20`
+
 20% OFF forever
 
 ### affLIFT Promo Code
 `MAXJMAC`
-25% OFF all time
+
+25% OFF all time and reusable

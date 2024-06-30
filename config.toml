@@ -59,31 +59,31 @@ enableEmoji = true
         title = ""
         weight = 2
       [[languages.zh-cn.menu.main]]
+        identifier = "promo-codes"
+        pre = ""
+        name = "优惠码"
+        url = "/promo-codes/"
+        title = ""
+        weight = 3
+      [[languages.zh-cn.menu.main]]
         identifier = "posts"
         pre = ""
         name = "所有文章"
         url = "/posts/"
         title = ""
-        weight = 3
+        weight = 4
       [[languages.zh-cn.menu.main]]
         identifier = "tags"
         pre = ""
         name = "标签"
         url = "/tags/"
         title = ""
-        weight = 4
+        weight = 5
       [[languages.zh-cn.menu.main]]
         identifier = "categories"
         pre = ""
         name = "分类"
         url = "/categories/"
-        title = ""
-        weight = 5
-      [[languages.zh-cn.menu.main]]
-        identifier = "promo-codes"
-        pre = ""
-        name = "优惠码"
-        url = "/promo-codes/"
         title = ""
         weight = 6
       [[languages.zh-cn.menu.main]]
@@ -186,31 +186,31 @@ enableEmoji = true
         title = ""
         weight = 2
       [[languages.en.menu.main]]
+        identifier = "promo-codes"
+        pre = ""
+        name = "Promo Codes"
+        url = "/promo-codes/"
+        title = ""
+        weight = 3
+      [[languages.en.menu.main]]
         identifier = "posts"
         pre = ""
         name = "Posts"
         url = "/posts/"
         title = ""
-        weight = 3
+        weight = 4
       [[languages.en.menu.main]]
         identifier = "tags"
         pre = ""
         name = "Tags"
         url = "/tags/"
         title = ""
-        weight = 4
+        weight = 5
       [[languages.en.menu.main]]
         identifier = "categories"
         pre = ""
         name = "Categories"
         url = "/categories/"
-        title = ""
-        weight = 5
-      [[languages.en.menu.main]]
-        identifier = "promo-codes"
-        pre = ""
-        name = "Promo Codes"
-        url = "/promo-codes/"
         title = ""
         weight = 6
       [[languages.en.menu.main]]
