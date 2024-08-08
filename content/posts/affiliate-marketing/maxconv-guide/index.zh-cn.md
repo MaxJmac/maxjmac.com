@@ -41,7 +41,7 @@ comment:
 
 ### MaxConv介绍
 
-注册链接: [https://maxconv.com/?utm_source=kgxast&utm_medium=refprog](https://maxconv.com/?utm_source=kgxast&utm_medium=refprog)
+注册链接: [https://maxconv.com/?utm_source=PhugoySy&utm_medium=refprog](https://maxconv.com/?utm_source=PhugoySy&utm_medium=refprog)
 
 首先价格上来说，MaxConv提供每月15万事件的免费版本，虽然限制了只能一个Custom domain，以及最多25个active campaigns，但这对于新手或者是想要尝试一下这个Tracker来说已经足够了，毕竟完全免费。付费计划里的$45/月，每月一百万事件虽然不是云追踪里面最便宜的，但是功能和性能对比下来，相较其他云追踪也是性价比很高的。
 
