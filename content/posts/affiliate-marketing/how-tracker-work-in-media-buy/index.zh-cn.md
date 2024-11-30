@@ -79,7 +79,7 @@ postback主要就是用到clickid和payout这两个参数。其他的类似于tr
 
 其中Parameter指的就是参数名称，Placeholder我们可以理解为萝卜坑。参数名称可以随意命名，自己看得懂就行，不懂就直接按模板的来就是了，只要保持在流量源使用的，和在追踪器中配置的一样就行。
 
-比如MaxConv中叫src_clid的，在Binom中叫visitor_id，叫什么不重要，它后面的萝卜坑Placeholder是**${SUBID}**就行，这样PropellerAds就能把实际的值替换掉**${SUBID}**，传递给追踪器。
+比如MaxConv中叫src_clid的，在Binom中叫visitor_id，叫什么不重要，它后面的萝卜坑Placeholder是`${SUBID}`就行，这样PropellerAds就能把实际的值替换掉`${SUBID}`，传递给追踪器。
 
 ### 例子
 
@@ -123,7 +123,7 @@ postback主要就是用到clickid和payout这两个参数。其他的类似于tr
 
 ![maxconv-offer](/images/how-tracker-work-in-media-buy/maxconv-offer.png)
 
-如果没有其他参数，则以**?**开头加上sub4={mc_click_id}，如果已经有其他参数则以**&**开头拼接在URL的最后面。
+如果没有其他参数，则以`?`开头加上sub4={mc_click_id}，如果已经有其他参数则以`&`开头拼接在URL的最后面。
 
 #### 4.MaxConv中新增PropellerAds
 
@@ -131,7 +131,7 @@ postback主要就是用到clickid和payout这两个参数。其他的类似于tr
 
 ![propellerads-tracking](/images/how-tracker-work-in-media-buy/propellerads-tracking.png)
 
-点击步骤2中的**Copy this S2S Postback URL**复制，回到MaxConv的PropellerAds流量源配置中，将URL粘贴到**Traffic source postback URL**下方的输入框中，删去**&payout=${PAYOUT}**部分，并将**${SUBID}**修改成下方Tokens中的第一个**{external_id}**，最后点击Save保存即可。如下图所示：
+点击步骤2中的**Copy this S2S Postback URL**复制，回到MaxConv的PropellerAds流量源配置中，将URL粘贴到**Traffic source postback URL**下方的输入框中，删去`&payout=${PAYOUT}`部分，并将${SUBID}修改成下方Tokens中的第一个`{external_id}`，最后点击Save保存即可。如下图所示：
 
 ![maxconv-propellerads](/images/how-tracker-work-in-media-buy/maxconv-propellerads.png)
 
@@ -151,6 +151,6 @@ postback主要就是用到clickid和payout这两个参数。其他的类似于tr
 
 这时你就基本掌握如何使用追踪了，换不同的流量源，不同的追踪器，不同的联盟，都是可以很快配置好的。
 
-不懂先去照着做，再去慢慢理解。
+还是那句话，不懂先去照着做，再去慢慢理解。
 
 以上！
