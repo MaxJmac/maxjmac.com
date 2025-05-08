@@ -27,7 +27,7 @@
 [Kintura](https://kintura.com/partner/maxjmac) 100万免费事件的高速AI云追踪
 
 ### 收款方式
-[Payoneer](http://share.payoneer.com/nav/6BWdz1Y56GcKD8TbFi1vyHfc-h76Z14AzOyXSUMooQKxFUQuAiANse-iMY3r8mBvTsMFwzxDdnYBFZFm1OnpyQ2) 派安盈，详细介绍见收款方案文章
+[Payoneer](https://go.maxjmac.com/payoneer) 派安盈，详细介绍见收款方案文章
 
 ### Spy工具
 [Anstrex](https://www.anstrex.com/?utm_campaign=affiliate&fp_ref=maxjmac) Push推荐这款，我的使用感受是比Adplexity好用而且还便宜，使用后面这个coupon code永久优惠20%，`maxjmac_20`
