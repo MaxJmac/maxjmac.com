@@ -11,7 +11,6 @@ lightgallery: true
 
 #### 联系方式
 微信: `MaxJmac`
-Skype: `live:maxjmac_2`
 
 #### 我的微信公众号
 ![微信公众号](/images/gzh.png)
