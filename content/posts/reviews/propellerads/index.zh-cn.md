@@ -219,10 +219,10 @@ PropellerAds作为一个成熟的流量平台，在我多年的使用过程中�
 
 以上。
 
-
-
 今年8月PropellerAds团队将参加China Joy大会。如需预约会面，请联系Natalya Gudimova：
+
 📱 微信: larakoralla
+
 💬 Telegram: @natalia_propeller
 
 
