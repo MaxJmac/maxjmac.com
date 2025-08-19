@@ -11,6 +11,7 @@ Programmer, Performance Marketer, Affiliate Marketer, Media Buyer
 
 #### Contact
 Wechat: `MaxJmac`
+Telegram: `@MaxJmac`
 
 #### Buy me Coffee
 [Buy me Coffee](https://ko-fi.com/maxjmac)
