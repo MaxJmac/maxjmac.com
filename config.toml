@@ -48,7 +48,7 @@ enableEmoji = true
         identifier = "guide"
         pre = ""
         name = "Media buy教程"
-        url = "https://www.patreon.com/maxjmac"
+        url = "https://www.skool.com/commission-crew/about?ref=ee5420652f0343feb423b97a73922cf2"
         title = ""
         weight = 1
       [[languages.zh-cn.menu.main]]
@@ -174,7 +174,7 @@ enableEmoji = true
         identifier = "guide"
         pre = ""
         name = "Media buy Guide"
-        url = "https://www.patreon.com/maxjmac"
+        url = "https://www.skool.com/commission-crew/about?ref=ee5420652f0343feb423b97a73922cf2"
         title = ""
         weight = 1
       [[languages.en.menu.main]]
