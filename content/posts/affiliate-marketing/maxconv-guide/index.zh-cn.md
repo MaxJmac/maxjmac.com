@@ -43,6 +43,8 @@ comment:
 
 注册链接: [https://maxconv.com/?utm_source=PhugoySy&utm_medium=refprog](https://maxconv.com/?utm_source=PhugoySy&utm_medium=refprog)
 
+首月优惠码：`MAXJMAC`
+
 首先价格上来说，MaxConv提供每月15万事件的免费版本，虽然限制了只能一个Custom domain，以及最多25个active campaigns，但这对于新手或者是想要尝试一下这个Tracker来说已经足够了，毕竟完全免费。付费计划里的$45/月，每月一百万事件虽然不是云追踪里面最便宜的，但是功能和性能对比下来，相较其他云追踪也是性价比很高的。
 
 功能上来说，主流流量源的Integrations我认为是一大亮点，既支持新手比较热门的PropellerAds，又支持Google/Facebook/TikTok等大型流量源，说明开发团队还是比较用心的。
