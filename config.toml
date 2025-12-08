@@ -89,7 +89,7 @@ enableEmoji = true
       [[languages.zh-cn.menu.main]]
         identifier = "about"
         pre = ""
-        name = "关于"
+        name = "关于我"
         url = "/about/"
         title = ""
         weight = 7
