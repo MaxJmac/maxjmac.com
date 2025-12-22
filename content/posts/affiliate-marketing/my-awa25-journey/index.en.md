@@ -67,7 +67,7 @@ The ecommerce here refers to ecommerce offers, not ecommerce platforms or dropsh
 
 #### Traffic Types
 
-Push is on a downward trend due to policy reasons, domain flagging, and decreased volume. The nature of the traffic determines this type is difficult to sustain long-term. It's fine for beginners, but not suitable for deep investment.
+Push is on a downward trend due to policy reasons, domain flagging, and decreased volume. The nature of the traffic determines this type is difficult to sustain long-term. It's fine for beginners, but not suitable for deep investment. However, as I mentioned in my 2025 ChinaJoy journey, any ad format can still be playable. There are still many agencies achieving very strong results with Push today. For agencies interested in expanding reach and complementing Facebook and Google traffic, Push can serve as an effective additional channel to help reach more users — it just requires more mature buying skills and more advanced strategies.
 
 Pop - many people say it's dead, but it's been "dying" for years and is still doing fine. Many people are still investing in it successfully. You just need to find the right offers/products for it. Overall, it's better than Push.
 
