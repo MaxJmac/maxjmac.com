@@ -241,3 +241,10 @@ Start with Popunder. No creatives needed, fast to launch, fast data. It's ideal 
 ## Conclusion
 
 Popunder is the most direct way into PropellerAds — no creatives, fast to launch, fast data feedback. Run through the RON-to-whitelist optimization process once, and this methodology applies equally to other ad formats down the line.
+
+## AD
+If you are new to PropellerAds, you can register through my exclusive link:
+
+👉 https://go.maxjmac.com/propellerads
+
+Use the promo code `MAXJMAC` to get a $30 bonus when you top up $150.
