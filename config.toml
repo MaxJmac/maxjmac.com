@@ -45,13 +45,6 @@ enableEmoji = true
     # 菜单信息
     [languages.zh-cn.menu]
       [[languages.zh-cn.menu.main]]
-        identifier = "guide"
-        pre = ""
-        name = "Media buy教程"
-        url = "https://www.skool.com/commission-crew/about?ref=ee5420652f0343feb423b97a73922cf2"
-        title = ""
-        weight = 1
-      [[languages.zh-cn.menu.main]]
         identifier = "nav"
         pre = ""
         name = "Affiliate导航"
@@ -170,13 +163,6 @@ enableEmoji = true
     dateFormatToUse = "2006-01-02"
     # 菜单信息
     [languages.en.menu]
-      [[languages.en.menu.main]]
-        identifier = "guide"
-        pre = ""
-        name = "Media buy Guide"
-        url = "https://www.skool.com/commission-crew/about?ref=ee5420652f0343feb423b97a73922cf2"
-        title = ""
-        weight = 1
       [[languages.en.menu.main]]
         identifier = "nav"
         pre = ""
