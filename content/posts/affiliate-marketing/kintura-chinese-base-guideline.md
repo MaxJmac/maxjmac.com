@@ -78,7 +78,7 @@ Visits显示有多少用户访问了Campaign url，L.Clicks(Landing Page Clicks)
 
 #### 实操过程
 
-我们以[Traffic Company](http://www.trafficcompany.com/signup?p=9319)联盟，[PropellerAds](https://partners.propellerads.com/#/app/auth/signUp?ref_id=e2e1476509ed)流量源为例，介绍从联盟，流量源配置，Landing Page，Offer，Route设置，到建立Campaign，放到流量源的整个流程。
+我们以[Traffic Company](http://www.trafficcompany.com/signup?p=9319)联盟，[PropellerAds](https://go.maxjmac.com/propellerads)流量源为例，介绍从联盟，流量源配置，Landing Page，Offer，Route设置，到建立Campaign，放到流量源的整个流程。
 
 ##### 1.联盟配置
 

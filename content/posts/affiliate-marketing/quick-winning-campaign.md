@@ -49,7 +49,7 @@ comment:
 
 以上是我如何找到表现优异的流量组合(geo+carrier)以进行测试的截图（以及我如何在周五找到Winner）。
 
-由于我喜欢在[PropellerAds](https://partners.propellerads.com/#/app/auth/signUp?ref_id=e2e1476509ed)上跑Android的pop流量，所以我以Android的Mainstream(offers)为过滤条件，[Monetizer](https://www.monetizer.com/?pid=14945)给我展示了一个表现最好的运营商的大列表。点击`eCPM`即以此排序，[Monetizer](https://www.monetizer.com/?pid=14945)给我展示了geo+carrier的平均eCPM（RPM）。
+由于我喜欢在[PropellerAds](https://go.maxjmac.com/propellerads)上跑Android的pop流量，所以我以Android的Mainstream(offers)为过滤条件，[Monetizer](https://www.monetizer.com/?pid=14945)给我展示了一个表现最好的运营商的大列表。点击`eCPM`即以此排序，[Monetizer](https://www.monetizer.com/?pid=14945)给我展示了geo+carrier的平均eCPM（RPM）。
 
 前面的几个是异常值，因为没有足够的点击量，没有任何统计学意义，但随着你往下走，你会发现一些看起来不错的组合。例如，**ES MOVISTAR**和**OM OMANTEL**都看起来不错（我正在跑这两个）。**OM OMANTEL**是我在周五发现的组合。我正在跑的offer现在是Marketplace上的前25名之一，但当时还不是。
 
@@ -85,7 +85,7 @@ comment:
 
 [Monetizer](https://www.monetizer.com/?pid=14945)有一个非常强大的平台和一些表现非常好的offer。盈利的诀窍是你必须找到它们，当然，如果你知道去哪里找，那就更容易了。
 
-不是每个Campaign都会成功，但我发现当与[PropellerAds](https://partners.propellerads.com/#/app/auth/signUp?ref_id=e2e1476509ed)的pop流量相结合时，[Monetizer](https://www.monetizer.com/?pid=14945)的盈利Campaign越来越多。你应该尝试一下。
+不是每个Campaign都会成功，但我发现当与[PropellerAds](https://go.maxjmac.com/propellerads)的pop流量相结合时，[Monetizer](https://www.monetizer.com/?pid=14945)的盈利Campaign越来越多。你应该尝试一下。
 
 
 
@@ -95,5 +95,5 @@ affLIFT: [https://afflift.com/?r=39423](https://afflift.com/?r=39423)
 
 Monetizer: [https://www.monetizer.com/?pid=14945](https://www.monetizer.com/?pid=14945)
 
-PropellerAds: [https://partners.propellerads.com/#/app/auth/signUp?ref_id=e2e1476509ed](https://partners.propellerads.com/#/app/auth/signUp?ref_id=e2e1476509ed)
+PropellerAds: [https://go.maxjmac.com/propellerads](https://go.maxjmac.com/propellerads)
 

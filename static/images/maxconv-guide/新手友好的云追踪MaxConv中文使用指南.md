@@ -32,7 +32,7 @@
 
 ### 实操
 
-我将以[Golden Goose](https://gg.agency/register?ref=VDsycZVduMR8u-vD)联盟，[PropellerAds](https://partners.propellerads.com/#/app/auth/signUp?ref_id=e2e1476509ed)流量源为例，介绍联盟配置，流量源配置，Offer配置，Lander配置，Flow配置，Integration配置，Campaign配置这些基础用法。
+我将以[Golden Goose](https://gg.agency/register?ref=VDsycZVduMR8u-vD)联盟，[PropellerAds](https://go.maxjmac.com/propellerads)流量源为例，介绍联盟配置，流量源配置，Offer配置，Lander配置，Flow配置，Integration配置，Campaign配置这些基础用法。
 
 #### 1.联盟配置
 

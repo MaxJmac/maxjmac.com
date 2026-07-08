@@ -37,7 +37,7 @@ Before we begin this article, I will introduce you to an important tool called P
 
 [https://propush.me/?ref_id=egLc](https://propush.me/?ref_id=egLc)
 
-This is a push subscription collection tool. The collected subscriptions are not used by you but are provided to [PropellerAds](https://partners.propellerads.com/#/app/auth/signUp?ref_id=e2e1476509ed), a traffic source. They sell these push subscriptions to other users, and you share the revenue with them through RevShare.
+This is a push subscription collection tool. The collected subscriptions are not used by you but are provided to [PropellerAds](https://go.maxjmac.com/propellerads), a traffic source. They sell these push subscriptions to other users, and you share the revenue with them through RevShare.
 
 All you need to do is add a piece of code to your Landing Page to achieve that.
 

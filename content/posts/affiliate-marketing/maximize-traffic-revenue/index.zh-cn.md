@@ -37,7 +37,7 @@ comment:
 
  [https://propush.me/?ref_id=egLc](https://propush.me/?ref_id=egLc)
 
-这是一个推送订阅收集工具，收集来的订阅不是你自己来用，而是给[PropellerAds](https://partners.propellerads.com/#/app/auth/signUp?ref_id=e2e1476509ed)这个流量源使用的，他们把这个推送订阅卖给其他的用户使用，然后跟你收入分成(RevShare)。
+这是一个推送订阅收集工具，收集来的订阅不是你自己来用，而是给[PropellerAds](https://go.maxjmac.com/propellerads)这个流量源使用的，他们把这个推送订阅卖给其他的用户使用，然后跟你收入分成(RevShare)。
 
 你只需在你的Landing Page上加一段代码，即可实现这个功能。
 

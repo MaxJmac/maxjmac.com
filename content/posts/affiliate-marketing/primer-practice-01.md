@@ -78,9 +78,9 @@ How did you find us?选择"Forum"
 
 
 
-##### 注册流量源 [PropellerAds](https://partners.propellerads.com/#/app/auth/signUp?ref_id=e2e1476509ed)
+##### 注册流量源 [PropellerAds](https://go.maxjmac.com/propellerads)
 
-这是流量源平台，Pop流量量足，质量也不错。 前往[PropellerAds](https://partners.propellerads.com/#/app/auth/signUp?ref_id=e2e1476509ed)。打开后惯例第一页是个人信息填写页面，填完点击Next到下一页。
+这是流量源平台，Pop流量量足，质量也不错。 前往[PropellerAds](https://go.maxjmac.com/propellerads)。打开后惯例第一页是个人信息填写页面，填完点击Next到下一页。
 
 Please describe your business model选择"I am an affiliate and want to promote products from CPA networks or direct advertisers"
 
