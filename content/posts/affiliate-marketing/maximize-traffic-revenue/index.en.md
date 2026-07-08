@@ -111,9 +111,9 @@ The key is that we can also utilize Propush's TrafficBack feature to redirect us
 
 I will use Binom as an example to provide a complete overview of the configuration process. However, you can use any tracker to implement this solution.
 
-If you are interested in Binom, you can use discount code **MAXJMAC60** to get a 30-day free trial and a 60% discount for the following month.
+If you are interested in Binom, you can use discount code **JMAC60** to get a 30-day free trial and a 60% discount for the following month.
 
-Link: [https://binom.org/signup?from=MAXJMAC60](https://binom.org/signup?from=MAXJMAC60)
+Link: [https://binom.org/signup?from=JMAC60](https://binom.org/signup?from=JMAC60)
 
 ### 1. Tracker Configuration
 

@@ -8,7 +8,7 @@ lightgallery: true
 ---
 
 ### Binom优惠码
-`MAXJMAC60`
+`JMAC60`
 
 30天免费试用，次月四折，全网最低
 

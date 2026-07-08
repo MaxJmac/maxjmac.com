@@ -31,9 +31,9 @@ comment:
 >
 > 1.Register for Binom through my link to enjoy the first month free and a 60% discount for the second month—the lowest price available online. With links from other traffic sources or affiliates, the second month’s lowest discount is only 40% (not even Black Friday offers this low!). Here's the link:
 >
-> https://binom.org/signup?from=MAXJMAC60
+> https://binom.org/signup?from=JMAC60
 >
-> Or you can directly use the promo code: **MAXJMAC60**
+> Or you can directly use the promo code: **JMAC60**
 >
 > 2.MaxConv is running a Black Friday promotion until December 10th—annual plans are super cost-effective! Here's the link:
 >

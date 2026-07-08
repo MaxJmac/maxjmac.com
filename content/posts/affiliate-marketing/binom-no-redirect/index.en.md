@@ -33,7 +33,7 @@ So, by reviewing Binom's official documentation and combining it with my practic
 
 This solution not only satisfies Facebook's review but also helps when you are placing other types of ads (Push/Pop/Banner/Native), avoiding point loss due to redirects, thereby improving LP CTR and overall performance.
 
-**Ad**: By registering for Binom through my link, you can enjoy the first month for free and a 60% discount for the second month, which is the lowest rate available. With other sources or alliances, you can only get at least a 40% discount for the second month. Link: [https://binom.org/signup?from=MAXJMAC60](https://binom.org/signup?from=MAXJMAC60) or use the discount code: **MAXJMAC60**.
+**Ad**: By registering for Binom through my link, you can enjoy the first month for free and a 60% discount for the second month, which is the lowest rate available. With other sources or alliances, you can only get at least a 40% discount for the second month. Link: [https://binom.org/signup?from=JMAC60](https://binom.org/signup?from=JMAC60) or use the discount code: **JMAC60**.
 
 ### Steps:
 

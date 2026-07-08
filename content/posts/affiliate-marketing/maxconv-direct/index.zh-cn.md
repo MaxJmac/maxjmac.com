@@ -31,9 +31,9 @@ comment:
 >
 > 1.通过我的链接注册Binom可享受首月免费，次月四折的优惠，四折是全网最低了，你用其他流量源或联盟的链接次月最低只能六折（黑五都没这个低！）。链接如下：
 >
-> https://binom.org/signup?from=MAXJMAC60
+> https://binom.org/signup?from=JMAC60
 >
-> 或者可以直接使用优惠码: **MAXJMAC60**
+> 或者可以直接使用优惠码: **JMAC60**
 >
 > 2.最近MaxConv搞黑五活动，持续到12月10号，年付非常划算！链接如下：
 >
