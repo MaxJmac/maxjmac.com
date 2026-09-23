@@ -12,8 +12,8 @@ categories: ["reviews"]
 slug: "reviews"
 hiddenFromHomePage: false
 
-featuredImage: ""
-featuredImagePreview: ""
+featuredImage: "/images/mobipium/hero.png"
+featuredImagePreview: "/images/mobipium/hero.png"
 
 toc: true
 autoCollapseToc: true
